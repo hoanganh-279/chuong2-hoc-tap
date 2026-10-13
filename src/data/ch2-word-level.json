@@ -1,0 +1,907 @@
+{
+  "id": "ch2-word-level",
+  "title": "Equivalence at word level",
+  "subtitle": "Tương đương ở cấp độ từ",
+  "description": "Word và morpheme, bốn loại nghĩa, trường ngữ nghĩa, không tương đương và các chiến lược dịch.",
+  "sourceFile": "Chương 2_.pdf",
+  "sections": [
+    {
+      "id": "word-morpheme",
+      "title": "Word và Morpheme",
+      "summary": "Đơn vị nhỏ nhất có thể dùng độc lập và đơn vị nhỏ nhất mang nghĩa.",
+      "concepts": [
+        {
+          "title": "Word",
+          "body": "The word is ‘the smallest unit of language that can be used by itself’.",
+          "example": "“book” là một word vì nó có thể đứng một mình và vẫn có nghĩa: I have a book."
+        },
+        {
+          "title": "Đơn vị nhỏ hơn từ (units)",
+          "body": "Meaning can be carried by units smaller than the word.",
+          "example": "unhappy = un + happy. un- nhỏ hơn một word nhưng vẫn mang nghĩa nên là một unit; happy là một word."
+        },
+        {
+          "title": "Morpheme",
+          "body": "Morpheme cannot stand alone and must be linked to other morphemes.",
+          "example": "PREPARE = PRE + PARE: morpheme không thể đứng một mình được, phải đi kèm với word."
+        },
+        {
+          "title": "Phân tích từ thành phần mang nghĩa",
+          "body": "Tài liệu phân tích các ví dụ sau ở câu 3, 4, 5, 8 nhưng không ghi đáp án cho các câu này.",
+          "example": "inconceivable = in (“not”) + conceive (“think of or imagine”) + able (“able to be”). girl + s: girl và -s không thể chia nhỏ hơn. -s trong books, girls, funds giữ cùng một nghĩa: plural (số nhiều).",
+          "unconfirmed": true
+        },
+        {
+          "title": "Không có tương ứng một-một",
+          "body": "There is no one-to-one correspondence between orthographic words and elements of meaning within or across languages.",
+          "example": "English: tennis player (2 words). Turkish: tenisçi (1 word).",
+          "citation": "Trang 11"
+        }
+      ]
+    },
+    {
+      "id": "meaning-types",
+      "title": "Bốn loại nghĩa của từ",
+      "summary": "Propositional, Expressive, Presupposed và Evoked meaning, cùng Lexical meaning.",
+      "concepts": [
+        {
+          "title": "Lexical meaning",
+          "body": "“The most outstanding individual of the word that makes it different from any other world”.",
+          "example": "Từ \"dog\" có ý nghĩa từ vựng riêng biệt để phân biệt nó với \"cat\" hay \"horse\"."
+        },
+        {
+          "title": "Propositional meaning (Ý nghĩa mệnh đề)",
+          "body": "Bắt nguồn từ mối quan hệ giữa từ/phát ngôn và những gì nó quy chiếu hoặc mô tả trong thế giới thực hay tưởng tượng. Có thể đánh giá là đúng hay sai.",
+          "example": "\"The sun rises in the east\" có thể đánh giá là đúng trong thực tế."
+        },
+        {
+          "title": "Expressive meaning (Ý nghĩa biểu cảm)",
+          "body": "Không thể đánh giá là đúng hay sai vì liên quan đến cảm xúc hoặc thái độ của người nói hơn là những gì từ ngữ quy chiếu tới.",
+          "example": "\"Don't be such an idiot!\": từ \"idiot\" thể hiện sự tức giận hoặc chê bai của người nói."
+        },
+        {
+          "title": "Presupposed meaning (Ý nghĩa tiền giả định)",
+          "body": "Phát sinh từ các hạn chế đồng xuất hiện: những từ hoặc biểu hiện khác mà chúng ta mong đợi xuất hiện trước hoặc sau một đơn vị từ vựng. Collocational restrictions là những giới hạn mang tính quy ước, không suy ra một cách logic từ ý nghĩa mệnh đề.",
+          "example": "rancid butter, nhưng rotten meat, sour milk."
+        },
+        {
+          "title": "Evoked meaning (Ý nghĩa gợi hình)",
+          "body": "Phát sinh từ biến thể phương ngữ (dialect) và phong cách (register). Phân loại theo Địa lý, Thời gian và Xã hội.",
+          "example": "flat (Anh) và apartment (Mỹ); autumn và fall; motor-car (thời kỳ trước) và car (ngày nay); lavatory / restroom / toilet."
+        }
+      ]
+    },
+    {
+      "id": "semantic-fields",
+      "title": "Trường ngữ nghĩa (Semantic fields)",
+      "summary": "Cách cộng đồng ngôn ngữ phân chia trải nghiệm thành các trường khái niệm.",
+      "concepts": [
+        {
+          "title": "Định nghĩa",
+          "body": "Từ vựng của một ngôn ngữ là tập hợp các từ quy chiếu đến một loạt các trường khái niệm. Các phân chia này được gọi là semantic fields. Hiểu sự khác biệt về cấu trúc trường ngữ nghĩa giữa ngôn ngữ nguồn và đích giúp người dịch đánh giá giá trị của một mục từ trong tập hợp từ vựng.",
+          "example": "Trường nghĩa \"màu sắc\" trong tiếng Việt: đỏ, vàng, xanh, tím, trắng, đen,..."
+        },
+        {
+          "title": "Superordinate và Hyponym",
+          "body": "Semantic fields are arranged hierarchically, going from the more general to the more specific. The general word is usually referred to as superordinate and the specific word as hyponym.",
+          "example": "VEHICLES: vehicle là superordinate; bus, car, truck, coach là hyponyms. DRINKS: drink là superordinate; coffee, tea, milk là hyponyms.",
+          "citation": "Trang 18"
+        },
+        {
+          "title": "Trường ngữ nghĩa luôn thay đổi",
+          "body": "Semantic fields are always changing, with new words and expressions being introduced into the language and others being dropped.",
+          "example": "\"AI\", \"cloud computing\".",
+          "citation": "Trang 19"
+        },
+        {
+          "title": "Physical perspective",
+          "body": "Physical perspective has to do with where things or people are in relation to one another or to a place, as expressed in pairs of words such as come/go, take/bring, arrive/depart.",
+          "citation": "Trang 21"
+        }
+      ]
+    },
+    {
+      "id": "non-equivalence",
+      "title": "Không tương đương ở cấp độ từ",
+      "summary": "Khi ngôn ngữ đích không có từ tương đương trực tiếp cho một từ trong văn bản nguồn.",
+      "concepts": [
+        {
+          "title": "Non-equivalence at word level",
+          "body": "Non-equivalence at word level means that the target language has no direct equivalent for a word which occurs in the source text.",
+          "example": "\"giỗ\" phải dịch giải thích là \"death anniversary\".",
+          "citation": "Trang 19"
+        },
+        {
+          "title": "Equivalence above word level",
+          "body": "Phạm vi quy chiếu được mở rộng bằng cách xem xét sự kết hợp giữa từ và cụm từ để tạo thành các chuỗi ngôn ngữ mang tính quy ước hoặc bán quy ước.",
+          "example": "heavy smoker, break a leg.",
+          "citation": "Trang 5"
+        },
+        {
+          "title": "Culture-specific concepts",
+          "body": "The source-language word may express a concept which is totally unknown in the target culture. Khái niệm có thể trừu tượng hoặc cụ thể, liên quan đến tín ngưỡng, phong tục hay một loại thực phẩm: “culture-specific”.",
+          "example": "bánh chưng, lì xì; hệ thống xưng hô bác, chú, cậu, mợ, dì, cô so với uncle, aunt.",
+          "citation": "Trang 19"
+        },
+        {
+          "title": "Khái niệm chưa được từ vựng hóa",
+          "body": "The source-language word may express a concept which is known in the target culture but simply not lexicalized, that is not 'allocated' a target-language word to express it.",
+          "example": "\"vừa đi vừa huýt sáo\" phải dùng cụm \"to whistle while walking\".",
+          "citation": "Trang 20"
+        },
+        {
+          "title": "Thiếu superordinate hoặc hyponym",
+          "body": "The target language may have specific words (hyponyms) but no general word (superordinate) to head the semantic field. More commonly, languages tend to have general words (superordinates) but lack specific ones (hyponyms).",
+          "example": "facilities (tiếng Nga thiếu từ chung); bungalow, cottage, chalet, mansion (nhiều ngôn ngữ chỉ có \"nhà\").",
+          "citation": "Trang 21"
+        },
+        {
+          "title": "Hình thái và phụ tố",
+          "body": "Tài liệu nêu ví dụ về phụ tố tiếng Anh không có tương đương trực tiếp trong tiếng Việt.",
+          "example": "-ware (hardware, glassware, silverware): đồ kim khí, đồ thủy tinh, đồ dùng bằng bạc. -ish (boyish, greenish): \"hơi xanh\". slink: \"lặng lẽ đi ra khỏi phòng một cách lén lút\".",
+          "unconfirmed": true
+        }
+      ]
+    },
+    {
+      "id": "strategies",
+      "title": "Chiến lược xử lý không tương đương",
+      "summary": "Mô tả và ví dụ các chiến lược trong tài liệu (câu 37-44). Tài liệu chưa ghi đáp án nên tên chiến lược chưa được xác nhận.",
+      "concepts": [
+        {
+          "title": "Dùng từ bao quát hơn (câu 37)",
+          "body": "Người dịch sử dụng một từ thượng nghĩa (bao quát hơn) để thay thế cho từ cụ thể hơn. Đây là cách phổ biến nhất, đặc biệt ở mảng ý nghĩa biểu định.",
+          "example": "\"She bought a shampoo.\" thành \"Cô ấy mua đồ tắm gội\".",
+          "unconfirmed": true
+        },
+        {
+          "title": "Dùng từ trung tính hơn (câu 38)",
+          "body": "Dùng từ trung tính hơn / ít sắc thái biểu cảm hơn, đặc biệt hữu ích với từ mang ý nghĩa biểu cảm.",
+          "example": "\"He mumbled an apology.\" thành \"Anh ấy nói nhỏ lời xin lỗi.\"",
+          "unconfirmed": true
+        },
+        {
+          "title": "Yếu tố đặc thù văn hóa (câu 39)",
+          "body": "Thay một yếu tố đặc thù văn hóa bằng yếu tố có nghĩa khác nhưng tạo tác động tương tự, quen thuộc với người đọc.",
+          "example": "\"They played cricket all afternoon.\" thành \"Chúng nó chơi đá bóng suốt cả chiều.\"",
+          "unconfirmed": true
+        },
+        {
+          "title": "Dùng từ mượn (câu 40)",
+          "body": "Đặc biệt phổ biến với yếu tố đặc thù văn hóa, khái niệm hiện đại và buzz words.",
+          "example": "Marketing, Logistics, AI, Podcast.",
+          "unconfirmed": true
+        },
+        {
+          "title": "Diễn giải (câu 41, 42)",
+          "body": "Diễn giải dưới hình thái khác khi tần suất một hình thái ở văn bản nguồn cao hơn mức tự nhiên của ngôn ngữ đích; hoặc diễn giải bằng cách giải thích nghĩa khi khái niệm không được từ vựng hóa.",
+          "example": "\"The reliability of the machine is high.\" thành \"Máy này hoạt động rất tin cậy.\" \"Alphonso\" thành \"một loại xoài ngọt và thơm có xuất xứ từ Ấn Độ\".",
+          "unconfirmed": true
+        },
+        {
+          "title": "Thực thể vật lý có thể minh họa (câu 43, 44)",
+          "body": "Lựa chọn hữu ích khi từ thiếu tương đương chỉ một thực thể vật lý có thể minh họa, nhất là khi văn bản phải ngắn gọn.",
+          "example": "\"kind of\" trong \"Much of this kind of protest...\" có thể bỏ khi dịch; in hình gói trà thay vì dịch \"tagged teabag\".",
+          "unconfirmed": true
+        }
+      ]
+    },
+    {
+      "id": "lexical-patterning",
+      "title": "Lexical patterning",
+      "summary": "Collocation, idioms và fixed expressions.",
+      "concepts": [
+        {
+          "title": "Lexical patterning",
+          "body": "Lexical patterning will be dealt with under two main headings: collocation and idioms and fixed expressions.",
+          "example": "deliver a baby (đỡ đẻ), break a habit (bỏ thói quen)."
+        }
+      ]
+    }
+  ],
+  "flashcards": [],
+  "questions": [
+    {
+      "id": "ch2-q1",
+      "number": "1",
+      "section": "word-morpheme",
+      "stem": "The __________ is ‘the smallest unit of language that can be used by itself’.",
+      "options": [
+        "morpheme",
+        "phrase",
+        "word"
+      ],
+      "answer": "word",
+      "status": "verified",
+      "example": "“book” là một word vì nó có thể đứng một mình và vẫn có nghĩa. → I have a book.",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q2",
+      "number": "2",
+      "section": "word-morpheme",
+      "stem": "Meaning can be carried by __________ smaller than the word.",
+      "options": [
+        "units",
+        "items",
+        "forms"
+      ],
+      "answer": "units",
+      "status": "verified",
+      "example": "unhappy = un + happy. un- → nhỏ hơn một word nhưng vẫn mang nghĩa → một unit; happy → một word.",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q3",
+      "number": "3",
+      "section": "word-morpheme",
+      "stem": "__________ can’t be divided into smaller parts.",
+      "options": [
+        "Morphology",
+        "Morpheme",
+        "Lexicon"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "example": "Ví dụ girl + s: girl không thể tiếp tục chia thành những phần nhỏ hơn mà mỗi phần vẫn là một yếu tố nghĩa. -s cũng không thể chia nhỏ hơn.",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q4",
+      "number": "4",
+      "section": "word-morpheme",
+      "stem": "__________ can be either a word or part of a word that has the meaning.",
+      "options": [
+        "Morphology",
+        "Morpheme",
+        "Lexicon"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "example": "inconceivable = in + conceive + able. In: một phần của từ + mang nghĩa “not”. Conceive: một phần + mang nghĩa “think of or imagine”. Able: một phần + mang nghĩa “able to be”.",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q5",
+      "number": "5",
+      "section": "word-morpheme",
+      "stem": "__________ can reoccur in different environment without any change in meaning.",
+      "options": [
+        "Morpheme",
+        "Morphology",
+        "Lexicon"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "example": "-s xuất hiện trong các từ khác nhau: Books, Girls, Funds (-s = số nhiều). -s xuất hiện trong những môi trường khác nhau nhưng vẫn giữ cùng một nghĩa/chức năng: plural (số nhiều).",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q6",
+      "number": "6",
+      "section": "word-morpheme",
+      "stem": "There is no one-to-one correspondence between __________ within or across languages.",
+      "options": [
+        "orthorhombic words and elements of meaning",
+        "orthostatic words and elements of meaning",
+        "orthographic words and elements of meaning"
+      ],
+      "answer": "orthographic words and elements of meaning",
+      "status": "verified",
+      "example": "English: tennis player → 2 words. Turkish: tenisçi → 1 word.",
+      "citation": "“there is no one-to-one correspondence between orthographic words and elements of meaning” (Trang 11), được dẫn trong phần giải thích câu 27 của tài liệu.",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q7",
+      "number": "7",
+      "section": "word-morpheme",
+      "stem": "Which of the following statement is true?",
+      "options": [
+        "Elements of meaning which are represented by one orthographic word may be represented by more than one on another language",
+        "Elements of meaning which are represented by two orthographic word may be represented by more than one on another language",
+        "Elements of meaning which are represented by one or two orthographic word may be represented by more than one on another language"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "example": "Ví dụ kiểu: I want to play badmintion and (other language)",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q8",
+      "number": "8",
+      "section": "word-morpheme",
+      "stem": "__________ is the smallest meaningful unit of a language.",
+      "options": [
+        "Morphology",
+        "Lexicon",
+        "Morpheme"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "example": "inconceivable = in + conceive + able. Mỗi phần: in → “not”; conceive → “think of or imagine”; able → “able to be”.",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q9",
+      "number": "9",
+      "section": "word-morpheme",
+      "stem": "__________ can stand alone and form a sentence by itself.",
+      "options": [
+        "Word",
+        "Group of words",
+        "Many groups of words"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "example": "Ví dụ “GO”, “STOP”",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q10",
+      "number": "10",
+      "section": "word-morpheme",
+      "stem": "__________ cannot stand alone and must be linked to other morphemes.",
+      "options": [
+        "Morphology",
+        "Morpheme",
+        "Lexicon"
+      ],
+      "answer": "Morpheme",
+      "status": "verified",
+      "example": "PREPARE: PRE + PARE: cho nên morpheme không thể đứng 1 mình được, phải đi kèm với word.",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q11",
+      "number": "11",
+      "section": "meaning-types",
+      "stem": "__________ is “the most outstanding individual of the word that makes it different from any other world”.",
+      "options": [
+        "Lexical meaning",
+        "Presupposed meaning",
+        "Evoked meaning."
+      ],
+      "answer": "Lexical meaning",
+      "status": "verified",
+      "example": "Từ \"dog\" (con chó) có ý nghĩa từ vựng riêng biệt để phân biệt nó với các loài vật khác như \"cat\" (con mèo) hay \"horse\" (con ngựa).",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q12",
+      "number": "12",
+      "section": "meaning-types",
+      "stem": "We can distinguish four main types of meaning in words and utterances (utterances being stretches of written or spoken text): Propositional meaning, Expressive meaning, Presupposed meaning, and __________.",
+      "options": [
+        "Evoked meaning.",
+        "Lexical meaning",
+        "Literal meaning"
+      ],
+      "answer": "Evoked meaning.",
+      "status": "verified",
+      "explanation": "Chúng ta có thể phân biệt bốn loại ý nghĩa chính trong từ và phát ngôn (phát ngôn là các đoạn văn bản viết hoặc nói): Ý nghĩa mệnh đề, Ý nghĩa biểu cảm, Ý nghĩa tiền giả định, và Ý nghĩa gợi hình/gợi không khí.",
+      "example": "Từ \"chips\" trong tiếng Anh-Anh (chỉ khoai tây chiên giòn đóng gói hoặc khoai tây chiên ngập dầu) sẽ gợi cho người nghe biết người nói đến từ Anh quốc, trong khi người Mỹ gọi nó là \"fries\" hoặc \"crisps\".",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q13",
+      "number": "13",
+      "section": "meaning-types",
+      "stem": "The __________ of a word or an utterance arises from the relation between it and what it refers to or describes in a real or imaginary world, as conceived by the speakers of the particular language. It can be judged as true or false.",
+      "options": [
+        "Propositional meaning",
+        "Expressive meaning",
+        "Presupposed meaning"
+      ],
+      "answer": "Propositional meaning",
+      "status": "verified",
+      "explanation": "Ý nghĩa mệnh đề của một từ hoặc một phát ngôn bắt nguồn từ mối quan hệ giữa nó và những gì nó quy chiếu hoặc mô tả trong thế giới thực hay thế giới tưởng tượng, theo quan niệm của những người nói ngôn ngữ đó. Nó có thể được đánh giá là đúng hay sai.",
+      "example": "Câu \"The sun rises in the east\" (Mặt trời mọc ở hướng đông) có ý nghĩa mệnh đề và có thể đánh giá là đúng trong thực tế.",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q14",
+      "number": "14, 15",
+      "section": "meaning-types",
+      "stem": "__________ cannot be judged as true or false. This is because expressive meaning relates to the speaker’s feelings or attitude rather to what words and utterances refer to.",
+      "options": [
+        "Expressive meaning",
+        "Propositional meaning",
+        "Presupposed meaning"
+      ],
+      "answer": "Expressive meaning",
+      "status": "verified",
+      "explanation": "Ý nghĩa biểu cảm không thể được đánh giá là đúng hay sai. Điều này là do ý nghĩa biểu cảm liên quan đến cảm xúc hoặc thái độ của người nói hơn là liên quan đến những gì từ ngữ và phát ngôn quy chiếu tới.",
+      "example": "Khi ai đó thốt lên \"Don't be such an idiot!\", từ \"idiot\" mang ý nghĩa biểu cảm thể hiện sự tức giận hoặc chê bai của người nói, chứ ta không thể đi đo lường xem người đó có thực sự là \"idiot\" theo một tiêu chuẩn khoa học khách quan là đúng hay sai được.",
+      "note": "Câu 14 và câu 15 trong tài liệu giống hệt nhau nên được gộp làm một.",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q16",
+      "number": "16",
+      "section": "meaning-types",
+      "stem": "__________ arises from co-occurrence restrictions, restrictions on what other words or expressions we expect to see before or after a particular lexical unit.",
+      "options": [
+        "Presupposed meaning",
+        "Expressive meaning",
+        "Propositional meaning"
+      ],
+      "answer": "Presupposed meaning",
+      "status": "verified",
+      "explanation": "Ý nghĩa tiền giả định phát sinh từ các hạn chế đồng xuất hiện, tức là các hạn chế về những từ hoặc biểu hiện khác mà chúng ta mong đợi sẽ xuất hiện trước hoặc sau một đơn vị từ vựng cụ thể.",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q17",
+      "number": "17",
+      "section": "meaning-types",
+      "stem": "__________ are semantically arbitrary restrictions which do not follow logically from the propositional meaning of a word.",
+      "options": [
+        "Collocational restrictions",
+        "Selectional restrictions",
+        "Electional restrictions"
+      ],
+      "answer": "Collocational restrictions",
+      "status": "verified",
+      "explanation": "Các giới hạn kết hợp từ là những giới hạn mang tính quy ước ngữ nghĩa không suy ra một cách logic từ ý nghĩa mệnh đề của một từ.",
+      "example": "Trong tiếng Anh, ta dùng từ \"rancid\" để chỉ bơ hoặc mỡ bị ôi thiu (rancid butter), nhưng đối với thịt hay sữa hỏng thì ta lại dùng từ \"rotten\" hoặc \"sour\" (rotten meat, sour milk). Sự phân chia này mang tính quy ước cố định chứ logic thông thường không giải thích được vì sao bơ không dùng \"rotten\".",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q18",
+      "number": "18",
+      "section": "meaning-types",
+      "stem": "__________ arises from dialect and register variation. A dialect is a variety of language which has currency within a specific community or group of speakers.",
+      "options": [
+        "Evoked meaning.",
+        "Lexical meaning",
+        "Literal meaning"
+      ],
+      "answer": "Evoked meaning.",
+      "status": "verified",
+      "explanation": "Ý nghĩa gợi hình phát sinh từ sự biến thể của phương ngữ và phong cách. Phương ngữ là một biến thể của ngôn ngữ được sử dụng trong một cộng đồng hoặc nhóm người nói cụ thể.",
+      "example": "Người Anh dùng từ \"flat\" để chỉ căn hộ, trong khi người Mỹ dùng từ \"apartment\". Khi nghe từ \"flat\", ta có thể \"gợi\" ra không khí hoặc nguồn gốc của người nói đến từ nước Anh.",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q19",
+      "number": "19",
+      "section": "meaning-types",
+      "stem": "__________ may be classified on one of the following bases: Geographical (e.g. American as opposed to British English), Temporal (words and structures used by members of different age groups within a community, or words used at different periods in the history of a language), and Social (words and structures used by members of different social classes).",
+      "options": [
+        "Evoked meaning.",
+        "Lexical meaning",
+        "Literal meaning"
+      ],
+      "answer": "Evoked meaning.",
+      "status": "verified",
+      "explanation": "Ý nghĩa gợi hình có thể được phân loại dựa trên một trong các cơ sở sau: Địa lý (ví dụ: tiếng Anh Mỹ đối lập với tiếng Anh Anh), Thời gian (từ ngữ dùng bởi các lứa tuổi khác nhau hoặc ở các thời kỳ lịch sử khác nhau), và Xã hội (từ ngữ dùng bởi các tầng lớp xã hội khác nhau).",
+      "example": "Địa lý: \"autumn\" (tiếng Anh-Anh) và \"fall\" (tiếng Anh-Mỹ). Xã hội: \"lavatory\" / \"restroom\" / \"toilet\". Thời gian: \"motor-car\" hoặc \"horseless carriage\" thời kỳ trước, \"car\" hoặc \"automobile\" ngày nay.",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q20",
+      "number": "20",
+      "section": "semantic-fields",
+      "stem": "The vocabulary of a language as a set of referring words to a series of conceptual fields. These fields reflect the divisions and sub - divisions ' imposed by a given linguistics community on the continuum of experience. In linguistics, the divisions are called __________.",
+      "options": [
+        "semantic fields",
+        "pragmatic fields",
+        "syntactic fields"
+      ],
+      "answer": "semantic fields",
+      "status": "verified",
+      "explanation": "Từ vựng của một ngôn ngữ được coi như một tập hợp các từ chỉ định quy chiếu đến một loạt các trường khái niệm. Các trường này phản ánh sự phân chia do cộng đồng ngôn ngữ áp đặt lên trải nghiệm. Trong ngôn ngữ học, các phân chia này được gọi là các trường ngữ nghĩa.",
+      "example": "Trường nghĩa về \"màu sắc\" trong tiếng Việt bao gồm: đỏ, vàng, xanh, tím, trắng, đen,... phản ánh cách cộng đồng người Việt phân chia quang phổ màu sắc trong thực tế.",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q21",
+      "number": "21",
+      "section": "semantic-fields",
+      "stem": "Understanding the difference in the structure of __________ in the source and target languages allows a translator to assess the value of a given item in a lexical sets.",
+      "options": [
+        "semantic fields",
+        "pragmatic fields",
+        "syntactic fields"
+      ],
+      "answer": "semantic fields",
+      "status": "verified",
+      "explanation": "Việc hiểu sự khác biệt trong cấu trúc của các trường ngữ nghĩa trong ngôn ngữ nguồn và ngôn ngữ đích cho phép người dịch đánh giá được giá trị của một mục từ nhất định trong các tập hợp từ vựng.",
+      "example": "Trường nghĩa về \"đồ nội thất\" (furniture) trong tiếng Anh có thể bao gồm chair, table, bed, wardrobe..., khi dịch sang các ngôn ngữ khác, người dịch phải đối chiếu xem cấu trúc phân chia từ vựng của ngôn ngữ đích có từ nào tương đương hoàn toàn hay bị hẹp/rộng nghĩa hơn.",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q22",
+      "number": "22",
+      "section": "semantic-fields",
+      "stem": "__________ are arranged hierarchically, going from the more general to the more specific. The general word is usually referred to as superordinate and the specific word as hyponym.",
+      "options": [
+        "Pragmatic fields",
+        "Syntactic fields",
+        "Semantic fields"
+      ],
+      "answer": "Semantic fields",
+      "status": "verified",
+      "explanation": "Trường ngữ nghĩa được sắp xếp theo cấp bậc, đi từ khái quát hơn đến cụ thể hơn. Từ chung thường được gọi là từ bao hàm (superordinate) và từ cụ thể gọi là từ thứ cấp (hyponym).",
+      "example": "Trong trường ngữ nghĩa về ĐỒ UỐNG (DRINKS), từ \"drink\" là từ bao hàm (superordinate), còn \"coffee\" (cà phê), \"tea\" (trà), \"milk\" (sữa) là các từ thứ cấp (hyponyms).",
+      "citation": "\"Semantic fields are arranged hierarchically, going from the more general to the more specific. The general word is usually referred to as superordinate and the specific word as hyponym.\" (Trang 18)",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q23",
+      "number": "23",
+      "section": "semantic-fields",
+      "stem": "__________ are not fixed. They are always changing.",
+      "options": [
+        "Semantic fields",
+        "Pragmatic fields",
+        "Syntactic fields"
+      ],
+      "answer": "Semantic fields",
+      "status": "verified",
+      "example": "Trong lĩnh vực công nghệ, sự xuất hiện của các từ như \"AI\" (trí tuệ nhân tạo), \"cloud computing\" (điện toán đám mây) cho thấy các trường ngữ nghĩa luôn thay đổi và cập nhật theo thời gian.",
+      "citation": "\"Semantic fields are always changing, with new words and expressions being introduced into the language and others being dropped...\" (Trang 19)",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q24",
+      "number": "24",
+      "section": "semantic-fields",
+      "stem": "__________ has to do with where things or people are in relation to one another or to a place.",
+      "options": [
+        "Physical perspective",
+        "Spiritual perspective",
+        "Spacious perspective"
+      ],
+      "answer": "Physical perspective",
+      "status": "verified",
+      "example": "Cặp động từ \"đến\" (come) và \"đi\" (go) thể hiện góc nhìn vật lý phụ thuộc vào hướng di chuyển của người nói (\"Come here\" khác với \"Go there\").",
+      "citation": "\"Physical perspective has to do with where things or people are in relation to one another or to a place, as expressed in pairs of words such as come/go, take/bring, arrive/depart...\" (Trang 21)",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q25",
+      "number": "25",
+      "section": "non-equivalence",
+      "stem": "For the matter of __________, the scope of reference is widened a little by looking at combinations of words and phrases: what happens when words start combining with other words to form conventionalized or semi-conventionalized stretches of language.",
+      "options": [
+        "equivalence at word level",
+        "Equivalence above word level",
+        "equivalence below word level"
+      ],
+      "answer": "Equivalence above word level",
+      "status": "verified",
+      "example": "Cụm từ cố định (collocation) như \"heavy smoker\" (người hút thuốc lá nặng) hoặc thành ngữ \"break a leg\" (chúc may mắn).",
+      "citation": "\"In Chapter 3, 'Equivalence above word level', the scope of reference is widened a little by looking at combinations of words and phrases: what happens when words start combining...\" (Trang 5)",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q26",
+      "number": "26",
+      "section": "non-equivalence",
+      "stem": "__________ means that the target language has no direct equivalent for a word which occurs in the source text.",
+      "options": [
+        "Non-equivalence at word level",
+        "Non-equivalence above word level",
+        "Non-equivalence below word level"
+      ],
+      "answer": "Non-equivalence at word level",
+      "status": "verified",
+      "example": "Từ \"giỗ\" (ngày giỗ tổ tiên) trong tiếng Việt không có từ đơn tương đương trực tiếp trong tiếng Anh mà phải dịch giải thích là \"death anniversary\".",
+      "citation": "\"Non-equivalence at word level means that the target language has no direct equivalent for a word which occurs in the source text.\" (Trang 19)",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q27",
+      "number": "27",
+      "section": "non-equivalence",
+      "stem": "__________ is not much determined by a one to one relationship between word and meaning.",
+      "options": [
+        "Non-equivalence above word level",
+        "Non-equivalence at word level",
+        "Non-equivalence below word level"
+      ],
+      "answer": "Non-equivalence at word level",
+      "status": "verified",
+      "example": "Một từ tiếng Anh có thể mang nhiều nghĩa tùy ngữ cảnh (ví dụ từ \"run\" có hàng chục nghĩa khác nhau như chạy, vận hành, quản lý...), dẫn đến sự không tương đương một-một khi dịch.",
+      "citation": "Sách chỉ ra rằng không có sự tương ứng một-một giữa từ và nghĩa (\"there is no one-to-one correspondence between orthographic words and elements of meaning\" - Trang 11).",
+      "note": "Tài liệu đánh dấu phương án này bằng chú thích “bản chất vấn đề thuộc chương non-equivalence”, không ghi chữ “Đáp án”.",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q28",
+      "number": "28",
+      "section": "non-equivalence",
+      "stem": "Which of the following statement is true?",
+      "options": [
+        "The source-language word can sometimes express a concept totally unknown in the target culture.",
+        "The source-language word can express a concept totally unknown in the target culture.",
+        "The source-language word can never express a concept totally unknown in the target culture."
+      ],
+      "answer": "The source-language word can express a concept totally unknown in the target culture.",
+      "status": "verified",
+      "explanation": "Từ trong ngôn ngữ nguồn có thể biểu đạt một khái niệm hoàn toàn xa lạ trong văn hóa đích. (Đáp án chính xác theo sách)",
+      "example": "Khái niệm \"privacy\" (quyền riêng tư cá nhân theo kiểu phương Tây) rất khó hiểu hoặc xa lạ ở một số nền văn hóa cộng đồng truyền thống.",
+      "citation": "\"The source-language word may express a concept which is totally unknown in the target culture.\" (Trang 19)",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q29",
+      "number": "29",
+      "section": "non-equivalence",
+      "stem": "The concept in question may be abstract or concrete; it may relate to a religious belief, a social custom or even a type of food. Such concepts are often referred to as __________.",
+      "options": [
+        "culture-specific",
+        "social-specific",
+        "social-cultural specific"
+      ],
+      "answer": "culture-specific",
+      "status": "verified",
+      "explanation": "Khái niệm đang xét có thể là trừu tượng hoặc cụ thể; nó có thể liên quan đến một tín ngưỡng tôn giáo, một phong tục xã hội hoặc thậm chí là một loại thực phẩm. Những khái niệm như vậy thường được gọi là đặc thù văn hóa (culture-specific).",
+      "example": "Món \"bánh chưng\" hay phong tục \"lì xì\" Tết ở Việt Nam là những khái niệm mang tính đặc thù văn hóa (culture-specific concepts). Hệ thống xưng hô tiếng Việt (bác, chú, cậu, mợ, dì, cô) so với tiếng Anh (uncle, aunt).",
+      "citation": "\"Such concepts are often referred to as 'culture-specific'.\" (Trang 19)",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q30",
+      "number": "30",
+      "section": "semantic-fields",
+      "stem": "In the field of VEHICLES, vehicles is a superordinate and bus, car, truck, coat,… are its __________.",
+      "options": [
+        "Hyponym",
+        "Hypernym",
+        "Synonym"
+      ],
+      "answer": "Hyponym",
+      "status": "verified",
+      "optionNotes": {
+        "Hyponym": "Hyponym (Từ loại con / Hạ danh): là các từ chỉ các thành viên cụ thể thuộc phạm vi bao hàm của từ siêu cấp (ví dụ: bus, car, truck, coach đều là các loại phương tiện cụ thể, nên chúng là hyponym của vehicle).",
+        "Hypernym": "Superordinate (Từ bao hàm / Từ siêu cấp / Hypernym): là từ chỉ một loại, một phạm vi chung lớn hơn (ví dụ: vehicles - phương tiện).",
+        "Synonym": "Synonym: từ đồng nghĩa (không chính xác trong trường hợp này vì bus, car, truck không đồng nghĩa với nhau)."
+      },
+      "example": "\"Vehicle\" là từ chung (superordinate), còn \"car\" hay \"bus\" là các từ cụ thể loại con (hyponyms).",
+      "citation": "\"In the field of VEHICLES, vehicle is a superordinate and bus, car, truck, coach and so on are all hyponyms of vehicle.\" (Trang 18)",
+      "note": "Từ “coat” trong đề là lỗi đánh máy của “coach” trong sách.",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q31",
+      "number": "31",
+      "section": "non-equivalence",
+      "stem": "Which of the following statement is true?",
+      "options": [
+        "The source-language word can express a concept known in the target culture but simply not lexicalized...",
+        "The source-language word may express a concept known in the target culture but simply not lexicalized, that is not ‘allocated’ a target-language word to express it.",
+        "The source-language word expresses a concept known in the target culture but simply not lexicalized..."
+      ],
+      "answer": "The source-language word may express a concept known in the target culture but simply not lexicalized, that is not ‘allocated’ a target-language word to express it.",
+      "status": "verified",
+      "explanation": "Từ trong ngôn ngữ nguồn có thể biểu đạt một khái niệm được biết đến trong văn hóa đích nhưng đơn giản là chưa được từ vựng hóa, nghĩa là chưa được \"gán\" cho một từ trong ngôn ngữ đích để diễn đạt nó.",
+      "example": "Người Việt ai cũng hiểu hành động \"vừa đi vừa huýt sáo\", nhưng tiếng Anh không có một từ đơn riêng biệt nào để gọi tên hiện tượng này mà phải dùng cụm \"to whistle while walking\".",
+      "citation": "\"The source-language word may express a concept which is known in the target culture but simply not lexicalized, that is not 'allocated' a target-language word to express it.\" (Trang 20)",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q32",
+      "number": "32",
+      "section": "non-equivalence",
+      "stem": "Which of the following statement is true?",
+      "options": [
+        "The target language may have specific words (hyponyms) but no general word (superordinate) to head the semantic field.",
+        "The target language may have specific words (hyponyms) with general word (superordinate)...",
+        "The target language may have specific words (hyponyms) and general word (superordinate)..."
+      ],
+      "answer": "The target language may have specific words (hyponyms) but no general word (superordinate) to head the semantic field.",
+      "status": "verified",
+      "explanation": "Ngôn ngữ đích có thể có các từ cụ thể (hyponyms) nhưng lại không có từ chung (superordinate) để làm đầu mối cho trường ngữ nghĩa đó.",
+      "example": "Tiếng Nga có rất nhiều từ cụ thể cho các loại phương tiện, chỗ ở, giấy tờ... nhưng lại thiếu một từ chung bao quát tương đương hoàn toàn với từ \"facilities\" của tiếng Anh.",
+      "citation": "Mục (e) The target language lacks a superordinate: \"The target language may have specific words (hyponyms) but no general word (superordinate) to head the semantic field.\" (Trang 21)",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q33",
+      "number": "33",
+      "section": "non-equivalence",
+      "stem": "Which of the following statement is true?",
+      "options": [
+        "Languages tend to have specific words (hyponyms)...",
+        "Languages tend to have general words (superordinates)...",
+        "Languages tend to have general words (superordinates) but lack specific ones (hyponyms), since each language makes only those distinctions in meaning which seem relevant to its particular environment."
+      ],
+      "answer": "Languages tend to have general words (superordinates) but lack specific ones (hyponyms), since each language makes only those distinctions in meaning which seem relevant to its particular environment.",
+      "status": "verified",
+      "explanation": "Các ngôn ngữ có xu hướng có các từ chung (superordinates) nhưng thiếu các từ cụ thể (hyponyms), vì mỗi ngôn ngữ chỉ thực hiện những phân biệt về nghĩa nào mà chúng thấy là phù hợp với môi trường cụ thể của mình.",
+      "example": "Tiếng Anh có rất nhiều từ chỉ các loại nhà ở khác nhau (bungalow, cottage, chalet, mansion...), nhưng nhiều ngôn ngữ khác chỉ có một từ chung là \"nhà\" (house).",
+      "citation": "Mục (f) The target language lacks a specific term (hyponym): \"More commonly, languages tend to have general words (superordinates) but lack specific ones (hyponyms), since each language makes only those distinctions in meaning which seem relevant...\" (Trang 21)",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q34",
+      "number": "34",
+      "section": "non-equivalence",
+      "stem": "If the target-language equivalent is neutral compared to the source-language item, __________.",
+      "options": [
+        "the translator can sometimes add the evaluative element by means of a modifier or adverb if necessary or by building it in somewhere else in the text.",
+        "the translator can always add the evaluative element by means of a modifier or adverb if necessary or by building it in somewhere else in the text.",
+        "the translator can never add the evaluative element by means of a modifier or adverb if necessary or by building it in somewhere else in the text."
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "example": "Tiếng Anh: \"He slinked out of the room.\" (Từ slink mang nghĩa bước đi lén lút, tội lỗi). Tiếng Việt dịch trung tính + bổ nghĩa: \"Anh ta lặng lẽ đi ra khỏi phòng một cách lén lút.\"",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q35",
+      "number": "35",
+      "section": "non-equivalence",
+      "stem": "Which of the following statement is true?",
+      "options": [
+        "There is sometimes no equivalent in the target language for a particular form in the source text.",
+        "There is ever no equivalent in the target language for a particular form in the source text.",
+        "There is often no equivalent in the target language for a particular form in the source text."
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "example": "Tiếng Anh dùng hậu tố tạo từ ghép chỉ tập hợp như \"-ware\" (hardware, glassware, silverware). Tiếng Việt không có hậu tố tương ứng, buộc phải diễn giải thành cụm từ riêng: đồ kim khí, đồ thủy tinh, đồ dùng bằng bạc.",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q36",
+      "number": "36",
+      "section": "non-equivalence",
+      "stem": "Certain suffixes and prefixes which convey propositional and other types of meaning in English __________.",
+      "options": [
+        "often have no direct equivalents in other languages",
+        "Always have no direct equivalents in other languages",
+        "Ever have no direct equivalents in other languages"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "example": "Tiếng Anh có hậu tố \"-ish\" chỉ tính chất nhẹ/xấp xỉ (boyish, greenish). Tiếng Việt không có tiền/hậu tố tương đương mà phải dùng từ bổ trợ riêng như \"hơi xanh\", \"có tính chất như...\".",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q37",
+      "number": "37",
+      "section": "strategies",
+      "stem": "__________ is the strategy in which translator uses a more superordinate to replace the more specific one. It's the commonest strategies for dealing many types of non - equivalence, especially in the area of propositional meaning.",
+      "options": [
+        "Translation by a less general word",
+        "Translation by a more general word",
+        "Translation by a common general word"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "explanation": "__________ là cách mà người dịch sử dụng một từ thượng nghĩa (từ bao quát hơn) để thay thế cho từ cụ thể hơn. Đây là cách phổ biến nhất để xử lý nhiều dạng mất tương đương, đặc biệt là ở mảng ý nghĩa biểu định.",
+      "example": "Gốc: \"She bought a shampoo.\" Dịch: \"Cô ấy mua một chai dầu gội\" hoặc dịch bằng từ rộng hơn: \"Cô ấy mua đồ tắm gội\" (nếu ngôn ngữ đích không có từ riêng cho shampoo).",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q38",
+      "number": "38",
+      "section": "strategies",
+      "stem": "__________ is the strategy in which translator uses more neutral / less word to replace words which don't have equivalent words. It is particularly useful to an expressive word.",
+      "options": [
+        "Translation by a more neutral / less expressive word",
+        "Translation by a more neutral expressive word",
+        "Translation by a more less expressive word"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "explanation": "__________ là cách mà người dịch sử dụng từ trung tính hơn / ít mang sắc thái biểu cảm hơn để thay thế cho những từ không có từ tương đương. Chiến lược này đặc biệt hữu ích đối với những từ mang ý nghĩa biểu cảm.",
+      "example": "Gốc: \"He mumbled an apology.\" (mumble: nói lầm bẩm tỏ vẻ khó chịu). Dịch: \"Anh ấy nói nhỏ lời xin lỗi.\"",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q39",
+      "number": "39",
+      "section": "strategies",
+      "stem": "__________ is the strategy which involves replacing a cultural specific item or express with one of the different meanings but similar impact in the translated text. This strategy gives the reader a concept which they can identify and understand, familiar and appealing to them.",
+      "options": [
+        "Translation by cultural substitution",
+        "Translation by cultural adaptation",
+        "Translation by cultural change"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "explanation": "__________ là cách bao gồm việc thay thế một yếu tố hoặc biểu đạt đặc thù văn hóa bằng một yếu tố có nghĩa khác nhưng tạo ra tác động tương tự trong văn bản dịch.",
+      "example": "Gốc (Anh): \"They played cricket all afternoon.\" Dịch (Việt cho trẻ em): \"Chúng nó chơi đá bóng suốt cả chiều.\"",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q40",
+      "number": "40",
+      "section": "strategies",
+      "stem": "__________ is the strategy which is particularly common in dealing with culture - specific items, modern concepts, and buzz words.",
+      "options": [
+        "Translation using a borrow word",
+        "Translation using a loaned word",
+        "Translation using a loan word"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "explanation": "__________ là cách đặc biệt phổ biến khi xử lý các yếu tố đặc thù văn hóa, các khái niệm hiện đại và các từ thời thượng (buzz words).",
+      "example": "Giữ nguyên các từ tiếng Anh như \"Marketing\", \"Logistics\", \"AI\", \"Podcast\" trong bản dịch tiếng Việt thay vì dịch thô ra.",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q41",
+      "number": "41",
+      "section": "strategies",
+      "stem": "We use the strategy translation by __________ in a different form when the frequency with which a certain form is used in the source text is significant higher than would be natural in the target language.",
+      "options": [
+        "paraphrasing using a related word",
+        "paraphrasing using an unrelated word",
+        "paraphrasing using a related and/or unrelated word"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "explanation": "Chúng ta sử dụng cách dịch bằng cách __________ dưới một hình thái khác khi tần suất sử dụng một hình thái nhất định ở văn bản nguồn cao hơn đáng kể so với mức tự nhiên trong ngôn ngữ đích.",
+      "example": "Gốc (danh từ): \"The reliability of the machine is high.\" Dịch (chuyển sang tính từ): \"Máy này hoạt động rất tin cậy.\"",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q42",
+      "number": "42",
+      "section": "strategies",
+      "stem": "We use strategy, __________ If the concept expressed by the source item is not lexicalized at all in the target language. Instead of a related word, the paraphrase may be based on modifying a superordinate or simply on unpacking the meaning of the source item, particularly if the item in question is semantically complex.",
+      "options": [
+        "translation by paraphrase using related words",
+        "translation by paraphrase using related and unrelated words",
+        "translation by paraphrase using unrelated words"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "explanation": "Chúng ta sử dụng các __________ nếu khái niệm được thể hiện bởi mục ở văn bản nguồn không được từ vựng hóa trong ngôn ngữ đích. Thay vì dùng một từ có liên quan, việc diễn giải có thể dựa trên việc điều chỉnh một từ thượng nghĩa hoặc chỉ đơn giản là giải thích nghĩa của mục nguồn.",
+      "example": "Từ \"Alphonso\" (một giống xoài đặc biệt của Ấn Độ) không có từ tương đương trong tiếng Việt, dịch diễn giải: \"một loại xoài ngọt và thơm có xuất xứ từ Ấn Độ\".",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q43",
+      "number": "43",
+      "section": "strategies",
+      "stem": "__________ is a useful option if the word which lacks an equivalent in the target language refers to a physical entity which can be illustrated, particularly if there are restrictions on space or if the text has to remain short, concise, and to the point.",
+      "options": [
+        "Translation by omission",
+        "Translation by adaptation",
+        "Translation by restriction"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "example": "Văn bản gốc: \"Much of this kind of protest has a long history in Africa.\" Dịch thô: \"Phần lớn loại hình phản kháng này có một lịch sử lâu đời ở châu Phi.\" (Từ \"kind of\" chỉ là từ đệm, nếu cố dịch sẽ làm câu tiếng Việt bị rườm rà, lặp từ.)",
+      "note": "Phần mô tả của câu 43 trong tài liệu trùng với câu 44 (thực thể vật lý có thể minh họa), trong khi ví dụ lại nói về việc lược bỏ. Cần đối chiếu lại với giáo trình.",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q44",
+      "number": "44",
+      "section": "strategies",
+      "stem": "__________ is a useful option if the word which lacks an equivalent in the target language refers to a physical entity which can be illustrated, especially if there are restrictions on space and if the text has to remain short, concise, and to the point.",
+      "options": [
+        "Translation by illustration",
+        "Translation by adaptation",
+        "Translation by restriction"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "example": "Trên vỏ hộp trà xuất khẩu sang thị trường Ả Rập, thay vì cố gắng dịch cụm từ tiếng Anh \"tagged teabag\" (túi trà có nhãn gập), nhà sản xuất in trực tiếp hình ảnh gói trà có dây và nhãn lên vỏ hộp.",
+      "sourceFile": "Chương 2_.pdf"
+    },
+    {
+      "id": "ch2-q45",
+      "number": "45",
+      "section": "lexical-patterning",
+      "stem": "__________ will be dealt with under two main headings: collocation and idioms and fixed expressions.",
+      "options": [
+        "Lexico patterning",
+        "Lexicon patterning",
+        "Lexical patterning"
+      ],
+      "answer": "Lexical patterning",
+      "status": "verified",
+      "example": "Trong tiếng Anh ta nói \"deliver a baby\" (đỡ đẻ) chứ không dịch xuôi là \"giao em bé\", hoặc \"break a habit\" (bỏ thói quen) chứ không dùng \"destroy a habit\". Các cặp từ đi cùng nhau tự nhiên này chính là Lexical patterning.",
+      "sourceFile": "Chương 2_.pdf"
+    }
+  ]
+}

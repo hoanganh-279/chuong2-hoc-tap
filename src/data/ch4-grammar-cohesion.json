@@ -1,0 +1,348 @@
+{
+  "id": "ch4-grammar-cohesion",
+  "title": "Grammatical equivalence & Cohesion",
+  "subtitle": "Tương đương ngữ pháp và liên kết văn bản",
+  "description": "Thì và thể, lựa chọn ngữ pháp và từ vựng, trật tự từ, tổ chức văn bản, năm phương tiện liên kết.",
+  "sourceFile": "Chương 2_ (2).pdf",
+  "sections": [
+    {
+      "id": "grammar",
+      "title": "Tương đương ngữ pháp",
+      "summary": "Thì và thể, lựa chọn ngữ pháp và từ vựng, thể bị động, trật tự từ.",
+      "concepts": [
+        {
+          "title": "Tense and aspect",
+          "body": "The form of the verb in languages which have these categories usually indicates two main types of information: time relations and aspectual differences. Time relations xác định sự kiện ở quá khứ, hiện tại hay tương lai; aspectual differences liên quan đến sự hoàn thành, chưa hoàn thành, tiếp diễn hoặc tức thời.",
+          "example": "\"wrote\" thể hiện quan hệ thời gian; \"was writing\" thêm khía cạnh thể (aspect).",
+          "citation": "p. 110-111, mục 4.2.4"
+        },
+        {
+          "title": "Lựa chọn ngữ pháp và từ vựng",
+          "body": "Grammatical choices are largely obligatory while lexical choices are largely optional.",
+          "example": "Tiếng Anh bắt buộc chọn student hoặc students; tiếng Trung/Nhật không bắt buộc biểu thị số ít/số nhiều theo cách ngữ pháp.",
+          "citation": "p. 96"
+        },
+        {
+          "title": "Thể bị động thay cho mệnh lệnh",
+          "body": "The use of the passive voice instead of the imperative form of the verb allows the translator to avoid specifying the subject of the verb altogether.",
+          "example": "\"The report must be submitted tomorrow\".",
+          "citation": "p. 105-106"
+        },
+        {
+          "title": "Word order",
+          "body": "Word order is extremely important in translation because it plays a major role in maintaining a coherent point of view and in orientating messages at text level.",
+          "example": "\"The dog bit the man\" và \"The man was bitten by the dog\".",
+          "citation": "p. 123, mục 4.3"
+        }
+      ]
+    },
+    {
+      "id": "text-organization",
+      "title": "Tổ chức văn bản",
+      "summary": "Cohesion (liên kết bề mặt) và coherence (mạch lạc ngữ nghĩa).",
+      "concepts": [
+        {
+          "title": "Cohesion",
+          "body": "Surface connections which establish interrelationships between persons and events; these allow us to trace participants in a text and to interpret the way in which different parts of the text relate to each other.",
+          "example": "\"John went to the store. He bought an apple.\"",
+          "citation": "p. 126, mục 4.4.2"
+        },
+        {
+          "title": "Coherence",
+          "body": "Underlying semantic connections which allow us to ‘make sense’ of a text as a unit of meaning; these are dealt with under the heading of coherence and implicature.",
+          "example": "\"Anh có đi xem phim tối nay không?\" \"Tôi phải ôn thi.\"",
+          "citation": "p. 126, mục 4.4.2"
+        },
+        {
+          "title": "Đặc thù ngôn ngữ và văn hóa",
+          "body": "These features of text organization are language- and culture-specific. Each linguistic community has preferred ways of organizing its various types of discourse.",
+          "citation": "Trang 125, phần 4.4.1"
+        }
+      ]
+    },
+    {
+      "id": "cohesion",
+      "title": "Năm phương tiện liên kết",
+      "summary": "Reference, substitution, ellipsis, conjunction và lexical cohesion.",
+      "concepts": [
+        {
+          "title": "Cohesion là gì",
+          "body": "Cohesion is the network of lexical, grammatical and other relations that provide links between various parts of a text. Halliday and Hasan identify five main cohesive devices in English: reference, substitution, ellipsis, conjunction and lexical cohesion.",
+          "citation": "p. 194"
+        },
+        {
+          "title": "Reference",
+          "body": "Traditionally, the relationship which holds between a word and what it points to in the real world. Reference is a device that allows the reader or hearer to trace participants, entities, events and so on in a text.",
+          "example": "\"Mary saw a cat. It was sleeping.\"",
+          "citation": "p. 195-196"
+        },
+        {
+          "title": "Substitution",
+          "body": "In substitution, an item (or items) is replaced by another item (or items).",
+          "example": "\"I don't have a pen, do you have one?\"",
+          "citation": "p. 200-201"
+        },
+        {
+          "title": "Ellipsis",
+          "body": "Ellipsis involves the omission of an item. In other words, in ellipsis, an item is replaced by nothing.",
+          "example": "\"Paul would like to go to the party, but Mary Ø wouldn't.\"",
+          "citation": "p. 201"
+        },
+        {
+          "title": "Conjunction",
+          "body": "Conjunction involves the use of formal markers to relate sentences, clauses and paragraphs to each other.",
+          "points": [
+            "causal: so, consequently, it follows, for, because...",
+            "temporal: then, next, after that, on another occasion...",
+            "continuatives (miscellaneous): now, of course, well, anyway, surely, after all"
+          ],
+          "citation": "p. 204-205"
+        }
+      ]
+    },
+    {
+      "id": "translator",
+      "title": "Yêu cầu đối với người dịch",
+      "summary": "Tránh dịch word-for-word, nắm vững SL và TL, khó khăn khi dịch idioms.",
+      "concepts": [
+        {
+          "title": "Tránh dịch từng từ",
+          "body": "The translator should avoid word-for-word renderings.",
+          "example": "\"It's raining cats and dogs\" thành \"Trời đang mưa như trút nước\"."
+        },
+        {
+          "title": "Nắm vững hai ngôn ngữ",
+          "body": "The translator should have a perfect knowledge of both SL and TL."
+        },
+        {
+          "title": "Idioms",
+          "body": "The problems of equivalence arises primarily in translating idioms. An idiom or fixed expression may have no equivalent in the target language.",
+          "example": "\"A piece of cake\".",
+          "citation": "Trang 73, phần 3.2.3"
+        }
+      ]
+    }
+  ],
+  "questions": [],
+  "flashcards": [
+    {
+      "id": "ch4-c1",
+      "number": "1",
+      "section": "grammar",
+      "front": "The form of the verb in languages which have these categories usually indicates two main types of information: __________.",
+      "back": "time relations and aspectual differences",
+      "explanation": "Hình thái của động từ trong các ngôn ngữ có các phạm trù này thường chỉ ra hai loại thông tin chính: quan hệ thời gian và sự khác biệt về thể (aspect). Time relations liên quan đến việc xác định sự kiện xảy ra ở quá khứ, hiện tại hay tương lai; còn aspectual differences liên quan đến sự hoàn thành, chưa hoàn thành, tiếp diễn hoặc tức thời của sự kiện.",
+      "example": "Trong tiếng Anh, động từ \"wrote\" (thì quá khứ đơn) thể hiện quan hệ thời gian trong quá khứ, trong khi \"was writing\" (thì quá khứ tiếp diễn) thể hiện thêm cả khía cạnh thể (aspect), cho thấy hành động đang diễn ra tại một thời điểm trong quá khứ.",
+      "citation": "p. 110-111, mục 4.2.4 “Tense and aspect”: “The form of the verb in languages which have these categories usually indicates two main types of information: time relations and aspectual differences.”",
+      "sourceFile": "Chương 2_ (2).pdf"
+    },
+    {
+      "id": "ch4-c4",
+      "number": "4",
+      "section": "grammar",
+      "front": "The most important difference between grammatical and lexical choices, as far as translation is concerned, is that __________.",
+      "back": "grammatical choices are largely obligatory while lexical choices are largely optional.",
+      "explanation": "Sự khác biệt quan trọng nhất giữa các lựa chọn ngữ pháp và từ vựng, xét về mặt dịch thuật, là các lựa chọn ngữ pháp phần lớn là bắt buộc trong khi các lựa chọn từ vựng phần lớn là tùy chọn. Baker lấy singular/plural làm ví dụ: tiếng Anh bắt buộc phải lựa chọn student hoặc students, trong khi tiếng Trung/Nhật không bắt buộc phải biểu thị số ít/số nhiều theo cách ngữ pháp.",
+      "example": "Khi dịch từ tiếng Việt sang tiếng Anh, nếu chủ ngữ số nhiều thì bắt buộc phải dùng động từ số nhiều (obligatory). Để miêu tả \"đẹp\", dịch giả có thể tùy chọn giữa \"beautiful\", \"lovely\", \"pretty\" hoặc \"attractive\" (optional).",
+      "citation": "p. 96: “The most important difference between grammatical and lexical choices, as far as translation is concerned, is that grammatical choices are largely obligatory while lexical choices are largely optional.”",
+      "sourceFile": "Chương 2_ (2).pdf"
+    },
+    {
+      "id": "ch4-c5",
+      "number": "5",
+      "section": "grammar",
+      "front": "Word order is extremely important in translation because it plays a major role __________.",
+      "back": "in maintaining a coherent point of view and in orientating messages at text level.",
+      "explanation": "Trật tự từ cực kỳ quan trọng trong dịch thuật vì nó đóng vai trò lớn trong việc duy trì một quan điểm mạch lạc và định hướng thông điệp ở cấp độ văn bản.",
+      "example": "Chuyển \"The dog bit the man\" thành \"The man was bitten by the dog\" làm thay đổi cách thông điệp được tập trung và đối tượng nào đứng ở đầu câu.",
+      "citation": "p. 123, mục 4.3 “A brief note on word order”: “Word order is extremely important in translation because it plays a major role in maintaining a coherent point of view and in orientating messages at text level.”",
+      "sourceFile": "Chương 2_ (2).pdf"
+    },
+    {
+      "id": "ch4-c6",
+      "number": "6",
+      "section": "grammar",
+      "front": "The use of the passive voice instead of the imperative form of the verb allows the translator __________.",
+      "back": "to avoid specifying the subject of the verb altogether.",
+      "explanation": "Việc sử dụng thể bị động thay vì thể mệnh lệnh của động từ cho phép dịch giả tránh việc phải chỉ định rõ chủ thể của động từ hoàn toàn.",
+      "example": "Thay vì \"You must submit this report tomorrow\", dịch giả có thể dùng \"The report must be submitted tomorrow\" (không cần nói rõ ai phải nộp).",
+      "citation": "p. 105-106: “The use of the passive voice ... instead of the imperative form of the verb allows the translator to avoid specifying the subject of the verb altogether.”",
+      "note": "Tài liệu ghi chú: đáp án B và C trong đề gốc giống nhau.",
+      "sourceFile": "Chương 2_ (2).pdf"
+    },
+    {
+      "id": "ch4-c2",
+      "number": "2",
+      "section": "text-organization",
+      "front": "For __________, there are surface connections which establish interrelationships between persons and events; these allow us to trace participants in a text and to interpret the way in which different parts of the text relate to each other.",
+      "back": "cohesion",
+      "explanation": "Đối với sự liên kết hình thức (cohesion), có các mối liên hệ bề mặt thiết lập sự tương quan giữa con người và sự kiện; những điều này cho phép chúng ta theo dõi các đối tượng tham gia trong một văn bản và diễn giải cách mà các phần khác nhau của văn bản liên quan đến nhau.",
+      "example": "\"John went to the store. He bought an apple.\" Từ \"He\" tạo ra một liên kết bề mặt (cohesion) với \"John\" giúp người đọc theo dõi được nhân vật.",
+      "citation": "p. 126, mục 4.4.2 “Features of text organization”: “there are surface connections which establish interrelationships between persons and events; these allow us to trace participants in a text and to interpret the way in which different parts of the text relate to each other (cohesion; Chapter 6).”",
+      "sourceFile": "Chương 2_ (2).pdf"
+    },
+    {
+      "id": "ch4-c3",
+      "number": "3",
+      "section": "text-organization",
+      "front": "There are underlying semantic connections which allow us to ‘make sense’ of a text as a unit of meaning; these are dealt with under __________.",
+      "back": "the heading of coherence",
+      "explanation": "Có các mối liên hệ ngữ nghĩa ẩn giấu cho phép chúng ta \"hiểu được\" một văn bản như một đơn vị nghĩa; những điều này được giải quyết dưới tiêu đề về tính mạch lạc (coherence).",
+      "example": "Hỏi: \"Anh có đi xem phim tối nay không?\" Đáp: \"Tôi phải ôn thi.\" Không có từ nối bề mặt (cohesion), nhưng câu trả lời vẫn mạch lạc (coherence) vì người đọc tự suy ra nghĩa ngầm định.",
+      "citation": "p. 126, mục 4.4.2: “Finally, there are underlying semantic connections which allow us to ‘make sense’ of a text as a unit of meaning; these are dealt with under the heading of coherence and implicature in Chapter 7.”",
+      "sourceFile": "Chương 2_ (2).pdf"
+    },
+    {
+      "id": "ch4-c19",
+      "number": "19",
+      "section": "text-organization",
+      "front": "The text organization has no following linguistic features in all languages.",
+      "back": "the same lexical and grammatical systems",
+      "explanation": "Tổ chức văn bản không có các đặc điểm ngôn ngữ sau đây ở tất cả các ngôn ngữ: các hệ thống từ vựng và ngữ pháp giống nhau. Baker nhấn mạnh rằng đặc điểm tổ chức văn bản mang tính language-specific và culture-specific.",
+      "example": "Tiếng Việt không có hệ thống chia thì phức tạp (past, present, future) bằng phụ tố như tiếng Anh, và cấu trúc từ vựng của mỗi ngôn ngữ phân chia thế giới khách quan thành các trường nghĩa khác nhau.",
+      "citation": "Trang 125, phần 4.4.1 Text versus non-text: “these features of text organization are language- and culture-specific. Each linguistic community has preferred ways of organizing its various types of discourse.”",
+      "sourceFile": "Chương 2_ (2).pdf"
+    },
+    {
+      "id": "ch4-c7",
+      "number": "7",
+      "section": "cohesion",
+      "front": "Cohesion is the network of lexical, grammatical and other relations that provide __________.",
+      "back": "links between various parts of a text",
+      "explanation": "Sự liên kết (Cohesion) là mạng lưới các quan hệ từ vựng, ngữ pháp và các quan hệ khác cung cấp các liên kết giữa các phần khác nhau của một văn bản.",
+      "example": "Sử dụng các từ quy chiếu như this, that, he, they hoặc các từ nối (however, therefore) để móc nối câu trước với câu sau trong đoạn văn.",
+      "citation": "Chapter 6: Cohesion, p. 194-195.",
+      "sourceFile": "Chương 2_ (2).pdf"
+    },
+    {
+      "id": "ch4-c8",
+      "number": "8",
+      "section": "cohesion",
+      "front": "There are __________ main cohesive devices in English.",
+      "back": "five",
+      "explanation": "Reference (Quy chiếu), Substitution (Thay thế), Ellipsis (Lược bỏ), Conjunction (Từ nối) và Lexical cohesion (Liên kết từ vựng).",
+      "citation": "p. 194: “Halliday and Hasan identify five main cohesive devices in English: reference, substitution, ellipsis, conjunction and lexical cohesion.”",
+      "note": "Phần dịch nghĩa trong tài liệu ghi “bốn” nhưng đáp án và trích dẫn sách đều là “five”.",
+      "sourceFile": "Chương 2_ (2).pdf"
+    },
+    {
+      "id": "ch4-c9",
+      "number": "9",
+      "section": "cohesion",
+      "front": "The term reference is traditionally used in semantics for the relationship which holds between __________.",
+      "back": "a word and what it points to in the real world",
+      "explanation": "Thuật ngữ \"quy chiếu\" (reference) theo truyền thống được dùng trong ngữ nghĩa học để chỉ mối quan hệ tồn tại giữa một từ và những gì nó chỉ đến trong thế giới thực.",
+      "example": "Từ \"Sun\" (Mặt trời) quy chiếu đến thực thể duy nhất là ngôi sao ở trung tâm hệ mặt trời trong thế giới thực.",
+      "citation": "p. 195: “The term reference is traditionally used in semantics for the relationship which holds between a word and what it points to in the real world.”",
+      "sourceFile": "Chương 2_ (2).pdf"
+    },
+    {
+      "id": "ch4-c10",
+      "number": "10",
+      "section": "cohesion",
+      "front": "Reference is a device which allows the readers to trace participants, entities, events, etc. __________.",
+      "back": "in a text",
+      "explanation": "Quy chiếu là một công cụ cho phép người đọc theo dõi các đối tượng tham gia, thực thể, sự kiện, v.v. trong một văn bản.",
+      "example": "\"Mary saw a cat. It was sleeping.\" Từ \"It\" giúp người đọc quy chiếu ngược lại để biết thực thể nào đang ngủ.",
+      "citation": "p. 196: “Reference, then, is a device that allows the reader or hearer to trace participants, entities, events and so on in a text.”",
+      "sourceFile": "Chương 2_ (2).pdf"
+    },
+    {
+      "id": "ch4-c11",
+      "number": "11",
+      "section": "cohesion",
+      "front": "Which of the following is correct? (về Substitution)",
+      "back": "In substitution, an item (or items) is replaced by another item.",
+      "explanation": "Trong phép thay thế (substitution), một mục (hoặc các mục) được thay thế bằng một mục khác.",
+      "example": "\"I don't have a pen, do you have one?\" Từ \"one\" thay thế cho danh từ \"pen\" ở vế trước.",
+      "citation": "p. 200-201, mục 6.2 “Substitution and ellipsis”: “In substitution, an item (or items) is replaced by another item (or items).”",
+      "sourceFile": "Chương 2_ (2).pdf"
+    },
+    {
+      "id": "ch4-c12",
+      "number": "12",
+      "section": "cohesion",
+      "front": "Ellipsis __________ the omission of an item. In other words, in ellipsis, an item is replaced by nothing.",
+      "back": "involves",
+      "explanation": "Phép lược bỏ (Ellipsis) bao gồm việc lược bỏ một thành phần. Nói cách khác, trong phép lược bỏ, một thành phần được thay thế bằng con số không (bị bỏ trống).",
+      "example": "\"Paul would like to go to the party, but Mary Ø wouldn't.\" (Phần sau \"wouldn't\" bị lược bỏ.)",
+      "citation": "p. 201: “Ellipsis involves the omission of an item. In other words, in ellipsis, an item is replaced by nothing.”",
+      "sourceFile": "Chương 2_ (2).pdf"
+    },
+    {
+      "id": "ch4-c13",
+      "number": "13",
+      "section": "cohesion",
+      "front": "Conjunction involves the use of formal markers __________ sentences, clauses and paragraphs to each other.",
+      "back": "to relate",
+      "explanation": "Phép nối (Conjunction) bao gồm việc sử dụng các dấu hiệu hình thức để liên kết các câu, mệnh đề và đoạn văn với nhau.",
+      "example": "Sử dụng từ nối như \"Furthermore\" hoặc \"However\" để liên kết ý nghĩa giữa các câu văn.",
+      "citation": "p. 204: “Conjunction involves the use of formal markers to relate sentences, clauses and paragraphs to each other.”",
+      "sourceFile": "Chương 2_ (2).pdf"
+    },
+    {
+      "id": "ch4-c14",
+      "number": "14",
+      "section": "cohesion",
+      "front": "Conjunctions so and consequently belong to __________.",
+      "back": "causal",
+      "explanation": "Các từ nối \"so\" (vì thế) và \"consequently\" (do đó) thuộc về loại quan hệ nhân quả (causal).",
+      "example": "\"It started to rain heavily; consequently, the match was cancelled.\"",
+      "citation": "p. 205, bảng phân loại của Baker: (c) causal: so, consequently, it follows, for, because...",
+      "sourceFile": "Chương 2_ (2).pdf"
+    },
+    {
+      "id": "ch4-c15",
+      "number": "15",
+      "section": "cohesion",
+      "front": "Conjunctions then and next belong to __________.",
+      "back": "temporal",
+      "explanation": "Các từ nối \"then\" (sau đó) và \"next\" (tiếp theo) thuộc về loại quan hệ thời gian/trình tự (temporal).",
+      "example": "\"First, mix the flour and sugar. Then, add the eggs.\"",
+      "citation": "p. 205: (d) temporal: then, next, after that, on another occasion...",
+      "sourceFile": "Chương 2_ (2).pdf"
+    },
+    {
+      "id": "ch4-c16",
+      "number": "16",
+      "section": "cohesion",
+      "front": "Continuatives consist of __________.",
+      "back": "now, of course",
+      "explanation": "Các từ tiếp diễn (continuatives) bao gồm now, of course.",
+      "example": "\"Now, let's move on to the next topic.\" (Từ \"Now\" dùng để chuyển ý và duy trì mạch hội thoại.)",
+      "citation": "p. 205: (e) continuatives (miscellaneous): now, of course, well, anyway, surely, after all",
+      "sourceFile": "Chương 2_ (2).pdf"
+    },
+    {
+      "id": "ch4-c17",
+      "number": "17",
+      "section": "translator",
+      "front": "The translator should __________ word-for-word renderings.",
+      "back": "avoid",
+      "explanation": "Dịch giả nên tránh các bản dịch dịch sát từng từ một (word-for-word renderings).",
+      "example": "\"It's raining cats and dogs\" nếu dịch word-for-word thành \"Trời đang mưa chó và mèo\" sẽ sai hoàn toàn nghĩa; cần chuyển ngữ thành \"Trời đang mưa như trút nước\".",
+      "sourceFile": "Chương 2_ (2).pdf"
+    },
+    {
+      "id": "ch4-c18",
+      "number": "18",
+      "section": "translator",
+      "front": "The translator should have a perfect knowledge of both __________.",
+      "back": "SL and TL (Source Language và Target Language)",
+      "explanation": "Dịch giả nên có kiến thức hoàn hảo về cả ngôn ngữ nguồn (SL) và ngôn ngữ đích (TL).",
+      "example": "Một dịch giả từ tiếng Anh sang tiếng Việt cần hiểu sâu sắc cả cấu trúc, văn hóa của tiếng Anh (SL) và sự uyển chuyển, từ vựng phong phú của tiếng Việt (TL).",
+      "sourceFile": "Chương 2_ (2).pdf"
+    },
+    {
+      "id": "ch4-c20",
+      "number": "20",
+      "section": "translator",
+      "front": "The problems of equivalence arises primarily in translating __________.",
+      "back": "idioms",
+      "explanation": "Các vấn đề về sự tương đương (equivalence) phát sinh chủ yếu khi dịch các thành ngữ (idioms).",
+      "example": "Thành ngữ \"A piece of cake\" (dễ như ăn bánh) mang nghĩa bóng hoàn toàn khác với nghĩa đen cấu thành từ các từ đơn lẻ.",
+      "citation": "Trang 73, phần 3.2.3 The translation of idioms: difficulties: \"The main difficulties involved in translating idioms and fixed expressions may be summarized as follows: (a) An idiom or fixed expression may have no equivalent in the target language.\"",
+      "sourceFile": "Chương 2_ (2).pdf"
+    }
+  ]
+}

@@ -1,0 +1,749 @@
+{
+  "id": "ch9-ethics",
+  "title": "Beyond equivalence: ethics and morality",
+  "subtitle": "Đạo đức và luân lý trong nghề dịch",
+  "description": "Ethics và morality, các học thuyết đạo đức, relativism và universalism, quy tắc nghề nghiệp của người dịch.",
+  "sourceFile": "Chương 2_ (3).pdf",
+  "sections": [
+    {
+      "id": "ethics-morality",
+      "title": "Ethics và Morality",
+      "summary": "Hai khái niệm nền tảng của Chapter 9.",
+      "concepts": [
+        {
+          "title": "Ethics",
+          "body": "Ethics is moral principles that govern a person's behavior. Ethics and morality are generally understood to concern our ability to make decisions on the basis of what we believe to be morally right or wrong in a specific context.",
+          "citation": "Trang 308"
+        },
+        {
+          "title": "Morality",
+          "body": "Morality is defined as principles concerning the distinction between right and wrong or good and bad behavior. Morality concerns everyday decisions, features prominently in public debates about the rights and wrongs of specific events.",
+          "example": "Xếp hàng lượt được coi là \"đúng/tốt\", chen ngang là \"sai/xấu\".",
+          "citation": "Trang 308"
+        },
+        {
+          "title": "Ethics trong đời sống nghề nghiệp",
+          "body": "Ethics has now come to be associated with the right conduct in professional life (hence our use of labels such as ‘business ethics’ and ‘medical ethics’). Various institutions and associations have codes of ethics, rather than codes of morality.",
+          "citation": "Trang 310"
+        }
+      ]
+    },
+    {
+      "id": "theories",
+      "title": "Các học thuyết đạo đức",
+      "summary": "Virtue ethics, act-utilitarianism, deontological và teleological.",
+      "concepts": [
+        {
+          "title": "Virtue ethics",
+          "body": "Virtue ethics takes a long view of ethical issues, framing them not as merely momentary or episodic concerns but rather as issues relevant across all domains of life and one’s entire lifespan. Ethics is thus understood as a lifelong process of learning and improvement, of nurturing the right virtues in ourselves and those in our care.",
+          "citation": "Trang 308-309"
+        },
+        {
+          "title": "Stream of life",
+          "body": "Ethics is about the stream of life rather than just its turbulent moments. Nhiều default choices cũng có thể có những important ethical implications.",
+          "citation": "p. 309"
+        },
+        {
+          "title": "Act-utilitarianism",
+          "body": "Act-utilitarianists argue that an ethical decision is one that results in the most favourable consequences for the largest number of people in a given context.",
+          "example": "Phi hành đoàn mời 2 hành khách bị nghi ngờ rời máy bay để hàng trăm hành khách còn lại an tâm.",
+          "citation": "Trang 312"
+        },
+        {
+          "title": "Deontological approach",
+          "body": "A deontological approach would justify an action on the basis of principles such as duty, loyalty or respect for human dignity. Kantian ethics maintains that our actions must ultimately be motivated by a sense of duty.",
+          "citation": "Trang 310"
+        }
+      ]
+    },
+    {
+      "id": "relativism",
+      "title": "Relativism",
+      "summary": "Đạo đức như một vấn đề quan điểm và sức hấp dẫn của cultural relativism.",
+      "concepts": [
+        {
+          "title": "Morality như một vấn đề quan điểm",
+          "body": "The attempt to separate morality from ethics and to restrict it to the individual might suggest that what is moral is a matter of opinion, like an aesthetic judgement of beauty or elegance.",
+          "citation": "p. 310"
+        },
+        {
+          "title": "Cultural relativism",
+          "body": "Cultural relativism has, in its main argument, a certain appeal in the context of translation and interpreting in particular.",
+          "citation": "p. 311"
+        },
+        {
+          "title": "Lựa chọn ngôn ngữ có hệ quả",
+          "body": "The arguments we use, like the specific linguistic choices we make (whether we call someone disabled or a cripple, for instance), are not without their own consequences.",
+          "citation": "Trang 311"
+        }
+      ]
+    },
+    {
+      "id": "codes",
+      "title": "Quy tắc nghề nghiệp của người dịch",
+      "summary": "Accuracy, impartiality, confidentiality và trách nhiệm của người dịch.",
+      "concepts": [
+        {
+          "title": "Accountability",
+          "body": "Professional codes được xây dựng để bảo đảm accountability của translators/interpreters đối với các bên liên quan; mỗi cá nhân phải accountable for their decisions.",
+          "citation": "p. 308"
+        },
+        {
+          "title": "Accuracy",
+          "body": "For translators and interpreters, the prime imperative is Accuracy, followed by Impartiality and Confidentiality. Accuracy focuses specifically on the relationship between the source and target text.",
+          "citation": "p. 319-320"
+        },
+        {
+          "title": "Impartiality",
+          "body": "Almost all codes drawn up by associations that represent translators and interpreters consider impartiality to be a prerequisite for professional behaviour. Interpreters must not allow their personal opinions or feelings to interfere with their work; if necessary, they can declare a conflict of interest and decline the job.",
+          "citation": "p. 318-319"
+        },
+        {
+          "title": "Confidentiality",
+          "body": "The principle of confidentiality, which is central to all professional codes of interpreting and translation.",
+          "example": "Trường hợp Camayd-Freixas: duy trì impartiality nhưng sau đó bị cho là vi phạm confidentiality khi công khai những gì ông chứng kiến.",
+          "citation": "p. 317, 319"
+        },
+        {
+          "title": "Các yêu cầu khác trong bộ câu hỏi",
+          "points": [
+            "The translator must show respect for all parties involved in the translation assignment.",
+            "The translator has to enhance his/her knowledge by creating and updating terminology files.",
+            "Because languages are constantly evolving, a translator needs to be aware of these changes.",
+            "The translator must know his/her linguistic limitations and decline assignments that go beyond his/her skills and competence.",
+            "Translators should endeavor to provide service of the highest quality.",
+            "Every translation shall be faithful and render exactly the idea and form of the original."
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "ch9-q1",
+      "number": "1",
+      "section": "ethics-morality",
+      "stem": "Ethics is __________.",
+      "options": [
+        "moral principles that govern a person's behavior.",
+        "immoral principles that govern a person's behavior.",
+        "moral and immoral principles that govern a person's behavior."
+      ],
+      "answer": "moral principles that govern a person's behavior.",
+      "status": "verified",
+      "explanation": "Đạo đức là các nguyên tắc đạo đức điều chỉnh/quy định hành vi của một người.",
+      "example": "Khi một dịch thuật viên nhận được tài liệu mật, dù không ai giám sát, họ vẫn quyết định không bán thông tin đó cho đối thủ cạnh tranh.",
+      "citation": "\"Ethics and morality are generally understood to concern our ability to make decisions on the basis of what we believe to be morally right or wrong in a specific context.\" (Trang 308, Đoạn 1, Dòng 1-3)",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q2",
+      "number": "2",
+      "section": "ethics-morality",
+      "stem": "Morality is defined as __________.",
+      "options": [
+        "principles including the distinction between right and wrong or good and bad behavior.",
+        "principles concerning the distinction between right and wrong or good and bad behavior.",
+        "principles involving the distinction of right and wrong or good and bad behavior."
+      ],
+      "answer": "principles concerning the distinction between right and wrong or good and bad behavior.",
+      "status": "verified",
+      "explanation": "Các nguyên tắc liên quan đến việc phân biệt giữa hành vi đúng và sai, hoặc tốt và xấu.",
+      "example": "Cộng đồng coi việc xếp hàng lượt là hành vi \"đúng/tốt\" vì mang lại sự trật tự, còn việc chen ngang là \"sai/xấu\".",
+      "citation": "\"...while morality concerns everyday decisions, features prominently in public debates about the rights and wrongs of specific events and therefore seems more relevant to our lives.\" (Trang 308, Đoạn 1, Dòng 18-20)",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q3",
+      "number": "3",
+      "section": "codes",
+      "stem": "Which one is correct?",
+      "options": [
+        "There is one abstract code drawn up by employers or the associations of interpreters and translators.",
+        "There are some abstract codes drawn up by employers or the associations of interpreters and translators.",
+        "There are many abstract codes drawn up by employers or the associations of interpreters and translators."
+      ],
+      "answer": "There are some abstract codes drawn up by employers or the associations of interpreters and translators.",
+      "status": "verified",
+      "example": "Mỗi tổ chức dịch thuật (như Hiệp hội Phiên dịch viên Y khoa hay Hiệp hội Phiên dịch Tòa án) lại thiết lập bộ quy tắc chuẩn mực riêng.",
+      "citation": "\"...all of which explains why various institutions and associations have codes of ethics, rather than codes of morality.\" (Trang 310, Đoạn 1, Dòng 27-28)",
+      "note": "Tài liệu chọn B (some), nhưng phần dịch nghĩa lại viết “Có nhiều bộ quy tắc”. Đáp án giữ theo lựa chọn B của tài liệu.",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q4",
+      "number": "4",
+      "section": "theories",
+      "stem": "Which sentence is correct?",
+      "options": [
+        "Act-utilitarianists don’t believe that an ethical decision is one that results in the most favourable consequences for the largest number of people in a given context.",
+        "Act-utilitarianists disagree that an ethical decision is one that results in the most favourable consequences for the largest number of people in a given context.",
+        "Act-utilitarianists argue that an ethical decision is one that results in the most favourable consequences for the largest number of people in a given context."
+      ],
+      "answer": "Act-utilitarianists argue that an ethical decision is one that results in the most favourable consequences for the largest number of people in a given context.",
+      "status": "verified",
+      "explanation": "Những người theo thuyết vị lợi hành động lập luận rằng một quyết định đạo đức là quyết định mang lại kết quả có lợi nhất cho số lượng người lớn nhất trong một bối cảnh nhất định.",
+      "example": "Trên một chuyến bay có nghi vấn an ninh, phi hành đoàn mời 2 hành khách bị nghi ngờ rời khỏi máy bay để đem lại sự an tâm cho hàng trăm hành khách còn lại.",
+      "citation": "\"Act-utilitarianists argue that an ethical decision is one that results in the most favourable consequences for the largest number of people in a given context.\" (Trang 312, Đoạn 1, Dòng 1-2)",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q5",
+      "number": "5",
+      "section": "codes",
+      "stem": "__________ other professions translation also has codes of ethics that regulate the behaviour of their members.",
+      "options": [
+        "Unlike",
+        "Like",
+        "Same"
+      ],
+      "answer": "Like",
+      "status": "verified",
+      "explanation": "Giống như các ngành nghề khác, ngành dịch thuật cũng có các bộ quy tắc đạo đức điều chỉnh hành vi của các thành viên.",
+      "example": "Tương tự như bác sĩ có lời thề làm điều có lợi cho bệnh nhân hay luật sư có nghĩa vụ bảo mật cho thân chủ, người dịch thuật cũng tuân thủ quy tắc trung thực để tối đa hóa sự tin tưởng chuyên môn từ xã hội.",
+      "citation": "\"...ethics has now come to be associated with the right conduct in professional life (hence our use of labels such as ‘business ethics’ and ‘medical ethics’)...\" (Trang 310, Đoạn 1, Dòng 20-22)",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q6",
+      "number": "6",
+      "section": "theories",
+      "stem": "Virtue ethics takes a long view of ethical issues, framing them not as merely __________ rather as issues relevant across all domains of life.",
+      "options": [
+        "so",
+        "when",
+        "but"
+      ],
+      "answer": "but",
+      "status": "verified",
+      "explanation": "Cấu trúc: not as merely... but rather as... Đạo đức học đức tính nhìn nhận các vấn đề đạo đức không chỉ đơn thuần là những mối bận tâm nhất thời, mà là những vấn đề có liên quan trên mọi lĩnh vực của cuộc sống.",
+      "example": "Việc rèn luyện tính trung thực của người dịch không chỉ là giải pháp tạm thời cho một hợp đồng hôm nay, mà là quá trình tích lũy phẩm chất suốt đời.",
+      "citation": "\"...framing them not as merely momentary or episodic concerns but rather as issues relevant across all domains of life and one’s entire lifespan (Cheney et al. 2010:238).\" (Trang 309, Đoạn 1, Dòng 10-12)",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q7",
+      "number": "7",
+      "section": "codes",
+      "stem": "The translator must show __________ for all parties involved in the translation assignment, including respect for self, the agency and to its clients.",
+      "options": [
+        "engagement",
+        "involvement",
+        "respect"
+      ],
+      "answer": "respect",
+      "status": "verified",
+      "explanation": "Người dịch phải thể hiện sự tôn trọng đối với tất cả các bên liên quan đến nhiệm vụ dịch thuật, bao gồm tôn trọng bản thân, công ty dịch thuật và khách hàng.",
+      "example": "Trong một cuộc đàm phán thương mại, phiên dịch viên chuyển ngữ chính xác cả những lời góp ý gay gắt thay vì tự ý cắt bỏ.",
+      "citation": "\"A deontological approach would justify an action on the basis of principles such as duty, loyalty or respect for human dignity...\" \"Treating others with dignity means respecting their autonomy...\" (Trang 310, Đoạn 4 & Trang 314, Đoạn 2)",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q8",
+      "number": "8",
+      "section": "codes",
+      "stem": "The translator has to enhance his/her knowledge by creating and updating __________ files.",
+      "options": [
+        "resource",
+        "terminology",
+        "professional"
+      ],
+      "answer": "terminology",
+      "status": "verified",
+      "explanation": "Người dịch phải nâng cao kiến thức của mình bằng cách tạo và cập nhật các tệp thuật ngữ.",
+      "example": "Một biên dịch viên chuyên ngành tài chính liên tục cập nhật bộ từ điển thuật ngữ ngân hàng mới.",
+      "citation": "\"Ethics is thus understood as a lifelong process of learning and improvement, of nurturing the right virtues in ourselves and those in our care.\" (Trang 309, Đoạn 1, Dòng 13-15)",
+      "note": "Tài liệu ghi “Đáp án A: terminology”, nhưng terminology là phương án B. Đáp án được lưu theo nội dung (terminology).",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q9",
+      "number": "9",
+      "section": "codes",
+      "stem": "Because languages are constantly __________, a translator needs to be aware of these changes to interpret and translate effectively.",
+      "options": [
+        "different",
+        "evolving",
+        "adapting"
+      ],
+      "answer": "evolving",
+      "status": "verified",
+      "explanation": "Vì ngôn ngữ liên tục phát triển/biến đổi, người dịch cần phải nhận thức được những thay đổi này để dịch thuật và phiên dịch hiệu quả.",
+      "example": "Ngày trước từ \"cripple\" được dùng phổ biến, nhưng ngày nay xã hội ưu tiên dùng \"person with disabilities\" (người khuyết tật).",
+      "citation": "\"The arguments we use, like the specific linguistic choices we make (whether we call someone disabled or a cripple, for instance), are not without their own consequences.\" (Trang 311, Đoạn 1, Dòng 6-8)",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q10",
+      "number": "10",
+      "section": "codes",
+      "stem": "The translator must know his/her linguistic __________ and decline assignments that go beyond his/her skills and competence.",
+      "options": [
+        "errors",
+        "ability",
+        "limitations"
+      ],
+      "answer": "limitations",
+      "status": "verified",
+      "explanation": "Người dịch phải biết những giới hạn về mặt ngôn ngữ của mình và từ chối các nhiệm vụ vượt quá kỹ năng và năng lực của bản thân.",
+      "example": "Một biên dịch viên chuyên về văn học được mời dịch một hợp đồng pháp lý phức tạp; nhận thức rõ giới hạn chuyên môn, người đó chủ động từ chối.",
+      "citation": "\"More specifically, however, Kantian ethics maintains that our actions must ultimately be motivated by a sense of duty.\" (Trang 310) và \"ethics is collective, involves conscious elaboration of codes and principles that constrain the behaviour of those obliged to abide by them...\" (Trang 314)",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q11",
+      "number": "11",
+      "section": "codes",
+      "stem": "The translator is __________ for his/her work…",
+      "options": [
+        "professional",
+        "interested",
+        "accountable"
+      ],
+      "answer": "accountable",
+      "status": "verified",
+      "optionNotes": {
+        "accountable": "Tài liệu giải thích: accountable = chịu trách nhiệm / phải chịu trách nhiệm về những quyết định và kết quả công việc của mình.",
+        "professional": "Tài liệu giải thích: “professional” chỉ có nghĩa là chuyên nghiệp, không mang nghĩa “chịu trách nhiệm về công việc”.",
+        "interested": "Tài liệu giải thích: “interested” = quan tâm, không phù hợp với cấu trúc be ___ for his/her work."
+      },
+      "citation": "Chapter 9, p. 308, phần mở đầu: Baker discusses the need for translators to be accountable for their decisions in professional life.",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q14",
+      "number": "14",
+      "section": "codes",
+      "stem": "Translators should endeavor to provide service of the highest __________…",
+      "options": [
+        "confidentiality",
+        "quality",
+        "professionalism"
+      ],
+      "answer": "quality",
+      "status": "verified",
+      "optionNotes": {
+        "quality": "Tài liệu giải thích: cụm tự nhiên và đúng về nghĩa là “the highest quality” = chất lượng cao nhất.",
+        "confidentiality": "Tài liệu đánh dấu sai: “highest confidentiality”.",
+        "professionalism": "Tài liệu đánh dấu sai: “highest professionalism”."
+      },
+      "note": "Tài liệu lưu ý câu này không xuất hiện nguyên văn trong Chapter 9. Tài liệu chỉ nêu đáp án B (quality) và hai phương án sai (confidentiality, professionalism), không ghi rõ chữ cái A/C của hai phương án sai.",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q15",
+      "number": "15",
+      "section": "codes",
+      "stem": "Every translation shall be __________ and render exactly the idea and form of the original.",
+      "options": [
+        "faithful",
+        "actual",
+        "impartial"
+      ],
+      "answer": "faithful",
+      "status": "verified",
+      "optionNotes": {
+        "faithful": "Tài liệu giải thích: faithful = trung thành với bản gốc. Câu này nói translation phải truyền đạt idea and form of the original, nên “faithful” phù hợp nhất.",
+        "actual": "Tài liệu giải thích: actual = thực tế, không có nghĩa “trung thành với bản gốc”.",
+        "impartial": "Tài liệu giải thích: impartial = không thiên vị, nói về thái độ của translator, không phải mức độ trung thành của translation."
+      },
+      "citation": "p. 319: “For translators and interpreters, the prime imperative is Accuracy, followed by Impartiality and Confidentiality.” p. 320: “Accuracy … focuses specifically on the relationship between the source and target text…”",
+      "note": "Tài liệu lưu ý câu này không phải câu nguyên văn trong Chapter 9.",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q17",
+      "number": "17",
+      "section": "theories",
+      "stem": "Which Sentence is TRUE?",
+      "options": [
+        "Ethics is understood as a lifelong process of learning and improvement.",
+        "Ethics is nurturing the right virtues only in ourselves…",
+        "lifelong process of learning without anything else"
+      ],
+      "answer": "Ethics is understood as a lifelong process of learning and improvement.",
+      "status": "verified",
+      "optionNotes": {
+        "Ethics is understood as a lifelong process of learning and improvement.": "Tài liệu giải thích: đúng với nội dung Baker (p. 308): “Ethics is thus understood as a lifelong process of learning and improvement…”",
+        "Ethics is nurturing the right virtues only in ourselves…": "Tài liệu giải thích: sai ở từ only. Baker không nói chỉ trong bản thân chúng ta; câu đầy đủ còn đề cập đến those in our care.",
+        "lifelong process of learning without anything else": "Tài liệu giải thích: không đúng. Baker nói learning AND improvement, không chỉ learning."
+      },
+      "citation": "p. 308, 9.1 Ethics and Morality: “Ethics is thus understood as a lifelong process of learning and improvement…”",
+      "note": "Phương án B và C được ghi theo đúng cách tài liệu trích lại trong phần phân tích.",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q19",
+      "number": "19",
+      "section": "relativism",
+      "stem": "Morality is __________.",
+      "options": [
+        "a matter of opinion, like an aesthetic judgement of beauty or elegance.",
+        "a matter of opinion, unlike an aesthetic judgement…",
+        "a matter of opinion, such as an aesthetic judgement…"
+      ],
+      "answer": "a matter of opinion, like an aesthetic judgement of beauty or elegance.",
+      "status": "verified",
+      "optionNotes": {
+        "a matter of opinion, like an aesthetic judgement of beauty or elegance.": "Tài liệu giải thích: câu A khớp trực tiếp với câu trong sách (p. 310).",
+        "a matter of opinion, unlike an aesthetic judgement…": "Tài liệu giải thích: trong sách lại nói like an aesthetic judgement.",
+        "a matter of opinion, such as an aesthetic judgement…": "Tài liệu giải thích: không phải cách Baker diễn đạt. Cụm chính xác là like an aesthetic judgement of beauty or elegance."
+      },
+      "citation": "Chapter 9, p. 310: “The attempt to separate morality from ethics and to restrict it to the individual might suggest that what is moral is a matter of opinion, like an aesthetic judgement of beauty or elegance.”",
+      "note": "Phương án B và C được ghi theo đúng phần tài liệu trích lại (“unlike an aesthetic judgement…”, “such as an aesthetic judgement…”).",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q21",
+      "number": "21",
+      "section": "relativism",
+      "stem": "Relativism __________ more sensitivity from a translator or interpreter to communicate, varies from one social environment to another.",
+      "options": [
+        "requires",
+        "require",
+        "to require"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q22",
+      "number": "22",
+      "section": "relativism",
+      "stem": "Some aspects of __________ are helpful in thinking about certain issues in translation.",
+      "options": [
+        "professionalism",
+        "utilitarianism",
+        "relativism"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q23",
+      "number": "23",
+      "section": "relativism",
+      "stem": "In translation and interpreting, morality is not _________ good manners or socially approved habits, which do vary considerably from one cultural environment to another.",
+      "options": [
+        "same as",
+        "the same as",
+        "the same"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q24",
+      "number": "24",
+      "section": "relativism",
+      "stem": "Translators cannot escape the burden of their moral proximity __________.",
+      "options": [
+        "to others",
+        "to himself/herself",
+        "to a few readers"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q25",
+      "number": "25",
+      "section": "relativism",
+      "stem": "__________ believe that such basic moral principles do exist and that they apply universally.",
+      "options": [
+        "Environmentalists",
+        "Universalists",
+        "Relativists"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q26",
+      "number": "26",
+      "section": "theories",
+      "stem": "Deontological models define what is ethical by __________ what is right in and of itself, irrespective of consequences, and are rule-based.",
+      "options": [
+        "reference of",
+        "reference with",
+        "reference to"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q27",
+      "number": "27",
+      "section": "theories",
+      "stem": "Teleological approaches define what is ethical by reference to what produces __________.",
+      "options": [
+        "the worst results",
+        "the best results",
+        "the better results"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q28a",
+      "number": "28",
+      "section": "relativism",
+      "stem": "Relativism separates __________ and suggest that moral is a matter of opinion, like an aesthetic judgement of beauty or elegance.",
+      "options": [
+        "morality from ethics",
+        "morality with ethics",
+        "morality of ethics"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q28b",
+      "number": "28 (lần 2)",
+      "section": "relativism",
+      "stem": "__________ suggest that moral varies from one society to another.",
+      "options": [
+        "Universalists",
+        "Relativists",
+        "Environmentalists"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "note": "Tài liệu đánh số 28 cho hai câu khác nhau.",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q29",
+      "number": "29",
+      "section": "relativism",
+      "stem": "Relativists suggest __________.",
+      "options": [
+        "we must trust others on the basis of our own, current values.",
+        "we must think others on the basis of our own, current values.",
+        "we must judge others on the basis of our own, current values."
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q30",
+      "number": "30",
+      "section": "codes",
+      "stem": "__________ professions have codes of ethics that regulate the behaviour of their members.",
+      "options": [
+        "Most",
+        "Most of",
+        "Most all"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q31",
+      "number": "31",
+      "section": "codes",
+      "stem": "Codes of ethics demonstrate to those __________ their services that they have mechanisms for ensuring accountability.",
+      "options": [
+        "that depend on",
+        "who depend of",
+        "who depend on"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q32",
+      "number": "32",
+      "section": "codes",
+      "stem": "Professional codes of translation and interpreting are the reference point for __________ in the field.",
+      "options": [
+        "ethical behaviour",
+        "professional behaviour",
+        "moral behaviour"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q33",
+      "number": "33",
+      "section": "codes",
+      "stem": "Which sentence is NOT correct.",
+      "options": [
+        "Accuracy is one of the principles included in most codes of ethics.",
+        "Accuracy is any of the principles included in most codes of ethics.",
+        "Accuracy is not one of the principles included in most codes of ethics."
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q34",
+      "number": "34",
+      "section": "codes",
+      "stem": "Accuracy focuses specifically on __________.",
+      "options": [
+        "the relationship between the source and target text.",
+        "source and relationship in the case of interpreting.",
+        "source and target only."
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q35",
+      "number": "35",
+      "section": "codes",
+      "stem": "Which sentences is correct?",
+      "options": [
+        "The translator mustn’t respect copyrights and intellectual property.",
+        "The translator must respect copyrights and intellectual property.",
+        "The translator mustn’t follow copyrights and intellectual property."
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q36",
+      "number": "36",
+      "section": "codes",
+      "stem": "Ethics in translation industry __________ and it is vital to your reputation that you provide your clients.",
+      "options": [
+        "aren’t important to uphold",
+        "are very important that to uphold",
+        "are important to uphold"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q37",
+      "number": "37",
+      "section": "codes",
+      "stem": "Translator must __________ evaluative feedback and practice self-evaluation concerning performance.",
+      "options": [
+        "seek",
+        "ignore",
+        "give"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q38",
+      "number": "38",
+      "section": "codes",
+      "stem": "Translator __________ to colleagues without prior written permission.",
+      "options": [
+        "must subcontract",
+        "mustn’t subcontract",
+        "shouldn’t subcontract"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q39",
+      "number": "39",
+      "section": "codes",
+      "stem": "Interpreters and translators only undertake work they are competent to perform in the languages __________ they are professionally qualified through training and credentials.",
+      "options": [
+        "at which",
+        "in which",
+        "for which"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-q40",
+      "number": "40",
+      "section": "codes",
+      "stem": "Interpreters and translators use their best professional judgement in remaining __________ at all times to the meaning of texts and messages.",
+      "options": [
+        "faithful",
+        "unfaithful",
+        "faithfulness"
+      ],
+      "answer": null,
+      "status": "no_answer",
+      "sourceFile": "Chương 2_ (3).pdf"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "ch9-c12",
+      "number": "12",
+      "section": "codes",
+      "front": "The translator must remain __________ and declare any potential conflict of interest…",
+      "back": "impartial",
+      "explanation": "Impartial = không thiên vị, không đứng về một bên. Impartiality là một nguyên tắc quan trọng trong professional codes của translators/interpreters.",
+      "citation": "Chapter 9, p. 318-319: “Almost all codes drawn up by associations that represent translators and interpreters consider impartiality to be a prerequisite for professional behaviour.” Ở p. 319, Baker dẫn Hale: interpreters must not allow their personal opinions or feelings to interfere with their work; if necessary, they can declare a conflict of interest and decline the job.",
+      "note": "Tài liệu không liệt kê đủ ba phương án A/B/C nên câu này được dùng làm thẻ ghi nhớ.",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-c13",
+      "number": "13",
+      "section": "codes",
+      "front": "The translator must respect… __________ and privacy…",
+      "back": "confidentiality",
+      "explanation": "Confidentiality = tính bảo mật / giữ bí mật thông tin. Baker đề cập các nguyên tắc Accuracy, Impartiality, Confidentiality và trường hợp Camayd-Freixas, người đã duy trì impartiality nhưng sau đó bị cho là vi phạm nguyên tắc confidentiality khi công khai những gì ông chứng kiến.",
+      "citation": "Chapter 9, p. 317: “the principle of confidentiality, which is central to all professional codes of interpreting and translation…”",
+      "note": "Tài liệu không liệt kê đủ ba phương án A/B/C nên câu này được dùng làm thẻ ghi nhớ.",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-c16",
+      "number": "16",
+      "section": "codes",
+      "front": "Translation is the communication of the meaning of a source language text by means of a/an __________ target language text.",
+      "back": "equivalent",
+      "explanation": "Equivalent = tương đương. Chapter 9 có tiêu đề Beyond equivalence: translation không chỉ là vấn đề equivalence; nó còn có ethical consequences.",
+      "citation": "p. 320: accuracy tập trung vào “the relationship between the source and target text”.",
+      "note": "Tài liệu lưu ý dẫn chứng trực tiếp về “equivalent target language text” không nằm ở Chapter 9. Không đủ ba phương án nên dùng làm thẻ ghi nhớ.",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-c18",
+      "number": "18",
+      "section": "theories",
+      "front": "Ethics is also considered as __________.",
+      "back": "Ethics is about the stream of life rather than just its turbulent moments.",
+      "explanation": "Ethics không chỉ xuất hiện khi chúng ta gặp một ethical crisis / ethical dilemma lớn. Nó còn liên quan đến những lựa chọn thường ngày; nhiều default choices cũng có thể có những important ethical implications.",
+      "citation": "Chapter 9, p. 309: “ethics is about the stream of life rather than just its turbulent moments”",
+      "note": "Tài liệu không liệt kê đủ ba phương án A/B/C nên câu này được dùng làm thẻ ghi nhớ.",
+      "sourceFile": "Chương 2_ (3).pdf"
+    },
+    {
+      "id": "ch9-c20",
+      "number": "20",
+      "section": "relativism",
+      "front": "Cultural relativism _________ its main argument, a certain appeal…",
+      "back": "has",
+      "explanation": "Câu hoàn chỉnh: Cultural relativism has, in its main argument, a certain appeal in the context of translation and interpreting in particular.",
+      "citation": "Chapter 9, p. 311.",
+      "note": "Tài liệu không liệt kê đủ ba phương án A/B/C nên câu này được dùng làm thẻ ghi nhớ.",
+      "sourceFile": "Chương 2_ (3).pdf"
+    }
+  ]
+}

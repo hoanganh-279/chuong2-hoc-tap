@@ -1,0 +1,7 @@
+node_modules
+dist
+*.log
+docx/
+.agents/
+skills-lock.json
+tsconfig.tsbuildinfo

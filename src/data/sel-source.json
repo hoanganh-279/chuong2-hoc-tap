@@ -1,0 +1,71 @@
+{
+  "sourceFile": "Chương 2_ (1).pdf",
+  "intro": "Phần dịch nghĩa cho từng năng lực cốt lõi trong mô hình SEL (Social & Emotional Learning - Học tập Xã hội và Cảm xúc).",
+  "competencies": [
+    {
+      "id": "self-awareness",
+      "en": "Self-Awareness",
+      "vi": "Tự nhận thức",
+      "definition": "Khả năng nhận biết và thấu hiểu cảm xúc, suy nghĩ của chính bản thân mình.",
+      "items": [
+        { "en": "Labeling one's feelings", "vi": "Gọi tên cảm xúc của bản thân." },
+        { "en": "Relating feelings and thoughts to behavior", "vi": "Liên kết cảm xúc và suy nghĩ với hành vi." },
+        { "en": "Accurate self-assessment of strengths and challenges", "vi": "Tự đánh giá chính xác các điểm mạnh và thử thách (điểm yếu) của bản thân." },
+        { "en": "Self-efficacy", "vi": "Năng lực tự chủ / Lòng tin vào khả năng bản thân." },
+        { "en": "Optimism", "vi": "Sự lạc quan." }
+      ]
+    },
+    {
+      "id": "self-management",
+      "en": "Self-Management",
+      "vi": "Tự quản lý",
+      "definition": "Khả năng điều tiết và kiểm soát cảm xúc, suy nghĩ và hành vi của bản thân trong các tình huống khác nhau.",
+      "items": [
+        { "en": "Regulating one's emotions", "vi": "Điều hòa cảm xúc cá nhân." },
+        { "en": "Managing stress", "vi": "Quản lý căng thẳng." },
+        { "en": "Self-control", "vi": "Tự kiểm soát." },
+        { "en": "Self-motivation", "vi": "Tự tạo động lực cho bản thân." },
+        { "en": "Setting and achieving goals", "vi": "Đặt ra và đạt được các mục tiêu." }
+      ]
+    },
+    {
+      "id": "social-awareness",
+      "en": "Social Awareness",
+      "vi": "Nhận thức xã hội",
+      "definition": "Khả năng thấu cảm và thấu hiểu quan điểm của người khác, bao gồm cả những người có hoàn cảnh hoặc văn hóa khác biệt.",
+      "items": [
+        { "en": "Perspective taking", "vi": "Đặt mình vào vị trí của người khác / Thấu hiểu góc nhìn của người khác." },
+        { "en": "Empathy", "vi": "Sự thấu cảm." },
+        { "en": "Respecting diversity", "vi": "Tôn trọng sự đa dạng." },
+        { "en": "Understanding social and ethical norms of behavior", "vi": "Hiểu các chuẩn mực xã hội và đạo đức về hành vi." },
+        { "en": "Recognizing family, school, and community supports", "vi": "Nhận biết các nguồn hỗ trợ từ gia đình, nhà trường và cộng đồng." }
+      ]
+    },
+    {
+      "id": "relationship-skills",
+      "en": "Relationship Skills",
+      "vi": "Kỹ năng quan hệ xã hội",
+      "definition": "Khả năng thiết lập và duy trì các mối quan hệ lành mạnh, bổ ích với nhiều cá nhân và nhóm khác nhau.",
+      "items": [
+        { "en": "Building relationships with diverse individuals and groups", "vi": "Xây dựng mối quan hệ với nhiều cá nhân và nhóm người đa dạng." },
+        { "en": "Communicating clearly", "vi": "Giao tiếp rõ ràng." },
+        { "en": "Working cooperatively", "vi": "Làm việc hợp tác." },
+        { "en": "Resolving conflicts", "vi": "Giải quyết xung đột." },
+        { "en": "Seeking help", "vi": "Tìm kiếm sự giúp đỡ." }
+      ]
+    },
+    {
+      "id": "responsible-decision-making",
+      "en": "Responsible Decision-Making",
+      "vi": "Ra quyết định có trách nhiệm",
+      "definition": "Khả năng đưa ra những lựa chọn mang tính xây dựng và có căn cứ đạo đức đối với các tương tác xã hội và hành vi cá nhân.",
+      "items": [
+        { "en": "Considering the well-being of self and others", "vi": "Cân nhắc đến lợi ích (sự an toàn, hạnh phúc) của bản thân và người khác." },
+        { "en": "Recognizing one's responsibility to behave ethically", "vi": "Nhận thức trách nhiệm của bản thân trong việc hành xử có đạo đức." },
+        { "en": "Basing decisions on safety, social and ethical considerations", "vi": "Dựa trên các cân nhắc về an toàn, xã hội và đạo đức khi ra quyết định." },
+        { "en": "Evaluating realistic consequences of various actions", "vi": "Đánh giá hậu quả thực tế của các hành động khác nhau." },
+        { "en": "Making constructive, safe choices for self, relationships and school", "vi": "Đưa ra những lựa chọn mang tính xây dựng và an toàn cho bản thân, các mối quan hệ và nhà trường." }
+      ]
+    }
+  ]
+}

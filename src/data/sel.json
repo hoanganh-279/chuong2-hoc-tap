@@ -1,0 +1,297 @@
+{
+  "id": "sel",
+  "title": "Social & Emotional Learning",
+  "subtitle": "Học tập Xã hội và Cảm xúc (SEL)",
+  "description": "Phần dịch nghĩa cho từng năng lực cốt lõi trong mô hình SEL (Social & Emotional Learning - Học tập Xã hội và Cảm xúc).",
+  "sourceFile": "Chương 2_ (1).pdf",
+  "sections": [
+    {
+      "id": "self-awareness",
+      "title": "Self-Awareness (Tự nhận thức)",
+      "summary": "Khả năng nhận biết và thấu hiểu cảm xúc, suy nghĩ của chính bản thân mình.",
+      "concepts": [
+        {
+          "title": "Các thành phần",
+          "points": [
+            "Labeling one's feelings: Gọi tên cảm xúc của bản thân.",
+            "Relating feelings and thoughts to behavior: Liên kết cảm xúc và suy nghĩ với hành vi.",
+            "Accurate self-assessment of strengths and challenges: Tự đánh giá chính xác các điểm mạnh và thử thách (điểm yếu) của bản thân.",
+            "Self-efficacy: Năng lực tự chủ / Lòng tin vào khả năng bản thân.",
+            "Optimism: Sự lạc quan."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "self-management",
+      "title": "Self-Management (Tự quản lý)",
+      "summary": "Khả năng điều tiết và kiểm soát cảm xúc, suy nghĩ và hành vi của bản thân trong các tình huống khác nhau.",
+      "concepts": [
+        {
+          "title": "Các thành phần",
+          "points": [
+            "Regulating one's emotions: Điều hòa cảm xúc cá nhân.",
+            "Managing stress: Quản lý căng thẳng.",
+            "Self-control: Tự kiểm soát.",
+            "Self-motivation: Tự tạo động lực cho bản thân.",
+            "Setting and achieving goals: Đặt ra và đạt được các mục tiêu."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "social-awareness",
+      "title": "Social Awareness (Nhận thức xã hội)",
+      "summary": "Khả năng thấu cảm và thấu hiểu quan điểm của người khác, bao gồm cả những người có hoàn cảnh hoặc văn hóa khác biệt.",
+      "concepts": [
+        {
+          "title": "Các thành phần",
+          "points": [
+            "Perspective taking: Đặt mình vào vị trí của người khác / Thấu hiểu góc nhìn của người khác.",
+            "Empathy: Sự thấu cảm.",
+            "Respecting diversity: Tôn trọng sự đa dạng.",
+            "Understanding social and ethical norms of behavior: Hiểu các chuẩn mực xã hội và đạo đức về hành vi.",
+            "Recognizing family, school, and community supports: Nhận biết các nguồn hỗ trợ từ gia đình, nhà trường và cộng đồng."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "relationship-skills",
+      "title": "Relationship Skills (Kỹ năng quan hệ xã hội)",
+      "summary": "Khả năng thiết lập và duy trì các mối quan hệ lành mạnh, bổ ích với nhiều cá nhân và nhóm khác nhau.",
+      "concepts": [
+        {
+          "title": "Các thành phần",
+          "points": [
+            "Building relationships with diverse individuals and groups: Xây dựng mối quan hệ với nhiều cá nhân và nhóm người đa dạng.",
+            "Communicating clearly: Giao tiếp rõ ràng.",
+            "Working cooperatively: Làm việc hợp tác.",
+            "Resolving conflicts: Giải quyết xung đột.",
+            "Seeking help: Tìm kiếm sự giúp đỡ."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "responsible-decision-making",
+      "title": "Responsible Decision-Making (Ra quyết định có trách nhiệm)",
+      "summary": "Khả năng đưa ra những lựa chọn mang tính xây dựng và có căn cứ đạo đức đối với các tương tác xã hội và hành vi cá nhân.",
+      "concepts": [
+        {
+          "title": "Các thành phần",
+          "points": [
+            "Considering the well-being of self and others: Cân nhắc đến lợi ích (sự an toàn, hạnh phúc) của bản thân và người khác.",
+            "Recognizing one's responsibility to behave ethically: Nhận thức trách nhiệm của bản thân trong việc hành xử có đạo đức.",
+            "Basing decisions on safety, social and ethical considerations: Dựa trên các cân nhắc về an toàn, xã hội và đạo đức khi ra quyết định.",
+            "Evaluating realistic consequences of various actions: Đánh giá hậu quả thực tế của các hành động khác nhau.",
+            "Making constructive, safe choices for self, relationships and school: Đưa ra những lựa chọn mang tính xây dựng và an toàn cho bản thân, các mối quan hệ và nhà trường."
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [],
+  "flashcards": [
+    {
+      "id": "sel-self-awareness-f1",
+      "section": "self-awareness",
+      "front": "Labeling one's feelings",
+      "back": "Gọi tên cảm xúc của bản thân.",
+      "explanation": "Thuộc năng lực Self-Awareness (Tự nhận thức).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-self-awareness-f2",
+      "section": "self-awareness",
+      "front": "Relating feelings and thoughts to behavior",
+      "back": "Liên kết cảm xúc và suy nghĩ với hành vi.",
+      "explanation": "Thuộc năng lực Self-Awareness (Tự nhận thức).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-self-awareness-f3",
+      "section": "self-awareness",
+      "front": "Accurate self-assessment of strengths and challenges",
+      "back": "Tự đánh giá chính xác các điểm mạnh và thử thách (điểm yếu) của bản thân.",
+      "explanation": "Thuộc năng lực Self-Awareness (Tự nhận thức).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-self-awareness-f4",
+      "section": "self-awareness",
+      "front": "Self-efficacy",
+      "back": "Năng lực tự chủ / Lòng tin vào khả năng bản thân.",
+      "explanation": "Thuộc năng lực Self-Awareness (Tự nhận thức).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-self-awareness-f5",
+      "section": "self-awareness",
+      "front": "Optimism",
+      "back": "Sự lạc quan.",
+      "explanation": "Thuộc năng lực Self-Awareness (Tự nhận thức).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-self-management-f1",
+      "section": "self-management",
+      "front": "Regulating one's emotions",
+      "back": "Điều hòa cảm xúc cá nhân.",
+      "explanation": "Thuộc năng lực Self-Management (Tự quản lý).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-self-management-f2",
+      "section": "self-management",
+      "front": "Managing stress",
+      "back": "Quản lý căng thẳng.",
+      "explanation": "Thuộc năng lực Self-Management (Tự quản lý).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-self-management-f3",
+      "section": "self-management",
+      "front": "Self-control",
+      "back": "Tự kiểm soát.",
+      "explanation": "Thuộc năng lực Self-Management (Tự quản lý).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-self-management-f4",
+      "section": "self-management",
+      "front": "Self-motivation",
+      "back": "Tự tạo động lực cho bản thân.",
+      "explanation": "Thuộc năng lực Self-Management (Tự quản lý).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-self-management-f5",
+      "section": "self-management",
+      "front": "Setting and achieving goals",
+      "back": "Đặt ra và đạt được các mục tiêu.",
+      "explanation": "Thuộc năng lực Self-Management (Tự quản lý).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-social-awareness-f1",
+      "section": "social-awareness",
+      "front": "Perspective taking",
+      "back": "Đặt mình vào vị trí của người khác / Thấu hiểu góc nhìn của người khác.",
+      "explanation": "Thuộc năng lực Social Awareness (Nhận thức xã hội).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-social-awareness-f2",
+      "section": "social-awareness",
+      "front": "Empathy",
+      "back": "Sự thấu cảm.",
+      "explanation": "Thuộc năng lực Social Awareness (Nhận thức xã hội).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-social-awareness-f3",
+      "section": "social-awareness",
+      "front": "Respecting diversity",
+      "back": "Tôn trọng sự đa dạng.",
+      "explanation": "Thuộc năng lực Social Awareness (Nhận thức xã hội).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-social-awareness-f4",
+      "section": "social-awareness",
+      "front": "Understanding social and ethical norms of behavior",
+      "back": "Hiểu các chuẩn mực xã hội và đạo đức về hành vi.",
+      "explanation": "Thuộc năng lực Social Awareness (Nhận thức xã hội).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-social-awareness-f5",
+      "section": "social-awareness",
+      "front": "Recognizing family, school, and community supports",
+      "back": "Nhận biết các nguồn hỗ trợ từ gia đình, nhà trường và cộng đồng.",
+      "explanation": "Thuộc năng lực Social Awareness (Nhận thức xã hội).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-relationship-skills-f1",
+      "section": "relationship-skills",
+      "front": "Building relationships with diverse individuals and groups",
+      "back": "Xây dựng mối quan hệ với nhiều cá nhân và nhóm người đa dạng.",
+      "explanation": "Thuộc năng lực Relationship Skills (Kỹ năng quan hệ xã hội).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-relationship-skills-f2",
+      "section": "relationship-skills",
+      "front": "Communicating clearly",
+      "back": "Giao tiếp rõ ràng.",
+      "explanation": "Thuộc năng lực Relationship Skills (Kỹ năng quan hệ xã hội).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-relationship-skills-f3",
+      "section": "relationship-skills",
+      "front": "Working cooperatively",
+      "back": "Làm việc hợp tác.",
+      "explanation": "Thuộc năng lực Relationship Skills (Kỹ năng quan hệ xã hội).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-relationship-skills-f4",
+      "section": "relationship-skills",
+      "front": "Resolving conflicts",
+      "back": "Giải quyết xung đột.",
+      "explanation": "Thuộc năng lực Relationship Skills (Kỹ năng quan hệ xã hội).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-relationship-skills-f5",
+      "section": "relationship-skills",
+      "front": "Seeking help",
+      "back": "Tìm kiếm sự giúp đỡ.",
+      "explanation": "Thuộc năng lực Relationship Skills (Kỹ năng quan hệ xã hội).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-responsible-decision-making-f1",
+      "section": "responsible-decision-making",
+      "front": "Considering the well-being of self and others",
+      "back": "Cân nhắc đến lợi ích (sự an toàn, hạnh phúc) của bản thân và người khác.",
+      "explanation": "Thuộc năng lực Responsible Decision-Making (Ra quyết định có trách nhiệm).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-responsible-decision-making-f2",
+      "section": "responsible-decision-making",
+      "front": "Recognizing one's responsibility to behave ethically",
+      "back": "Nhận thức trách nhiệm của bản thân trong việc hành xử có đạo đức.",
+      "explanation": "Thuộc năng lực Responsible Decision-Making (Ra quyết định có trách nhiệm).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-responsible-decision-making-f3",
+      "section": "responsible-decision-making",
+      "front": "Basing decisions on safety, social and ethical considerations",
+      "back": "Dựa trên các cân nhắc về an toàn, xã hội và đạo đức khi ra quyết định.",
+      "explanation": "Thuộc năng lực Responsible Decision-Making (Ra quyết định có trách nhiệm).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-responsible-decision-making-f4",
+      "section": "responsible-decision-making",
+      "front": "Evaluating realistic consequences of various actions",
+      "back": "Đánh giá hậu quả thực tế của các hành động khác nhau.",
+      "explanation": "Thuộc năng lực Responsible Decision-Making (Ra quyết định có trách nhiệm).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    },
+    {
+      "id": "sel-responsible-decision-making-f5",
+      "section": "responsible-decision-making",
+      "front": "Making constructive, safe choices for self, relationships and school",
+      "back": "Đưa ra những lựa chọn mang tính xây dựng và an toàn cho bản thân, các mối quan hệ và nhà trường.",
+      "explanation": "Thuộc năng lực Responsible Decision-Making (Ra quyết định có trách nhiệm).",
+      "sourceFile": "Chương 2_ (1).pdf"
+    }
+  ]
+}
